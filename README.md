@@ -52,4 +52,26 @@ The second part of this script describes a phylogenetic meta-analysis of all 16S
 
 All anammox sequences were downloaded using the accession numbers found in literature. They have been pooled in this file: [0-input_files/3-soils_seq.fasta](0-input_files/3-soils_seq.fasta)
 
+Then, sequences headers were parsed in order to include the study references (in bash):
+ ```{bash}
+less 0-input_files/3-soils_seq.fasta | \
+sed -e "s/>GU08/>Zhu_2011 GU08/g" | \
+sed -e "s/>HQ63/>Hu_2011 HQ63/g" | \
+sed -e "s/>FM17/>Humbert1 FM17/g" | \
+sed -e "s/>FN90/>Humbert2 FN90/g" | \
+sed -e "s/>GQ42/>Dong_2010 GQ42/g" | \
+sed -e "s/>JF96/>Wang_2013 JF96/g" | \
+sed -e "s/>JN17/>Hu_2013 JN17/g" | \
+sed -e "s/>AB60/>Sato_2012 JN17/g" | \
+sed -e "s/>KT16/>Shen_2016 KT16/g" | \
+sed -e "s/>KM88/>Shen_2015 KM88/g" | \
+sed -e "s/>KJ50/>Yang_2015 KJ50/g" | \
+sed -e "s/>KF75/>Shen_2014 KF75/g" | \
+sed -e "s/>KF28/>Han_2013 KF28/g" | \
+sed -e "s/>JQ91/>Shen_2013 JQ91/g" | \
+sed -e "s/>HQ65/>Sher_2012 HQ65/g" | \
+sed -e "s/>KJ70/>Naeher_2015 KJ70/g" | \
+sed -e "s/>KT87/>Bagnoud KT87/g" > 2-amx_soil_seq/1-soils_seq_new_labels.fasta
+```
+
 
