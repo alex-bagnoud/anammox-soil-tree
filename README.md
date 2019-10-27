@@ -178,35 +178,82 @@ Finally, anammox sequences from this study were blast on all the others:
 blastn -query 4-blastn/5-Bagnoud_seq.fasta -db 2-blastn/4-amx_soil_db -out 4-blastn/6-blast_report.txt -outfmt 6
 ```
 
+##### 2.4) Grouping soil anammox sequences into 97% OTUs
+
+Here USEARCH (https://www.drive5.com/usearch/) is used to group anammox sequences in operational taxonomic units (OTU), defined based on a similarity threshold of 97%. All this part was done in bash (unless specified otherwise).
+
+```{bash}
+mkdir 5-soils_otus
+```
+Sequences were first dereplicated:
+
+```{bash}
+usearch -fastx_uniques 4-blastn/3-amx_seq_good_direction.fasta -fastaout 5-soils_otus/1-uniques.fasta -sizeout -relabel Uniq -tabbedout 5-soils_otus/1-uniques_report.txt
+```
+
+Sequences are clustered into OTUs with a similarity threshold of 97%:
+```{bash}
+usearch -cluster_otus 5-soils_otus/1-uniques.fasta -otus 5-soils_otus/2-otus97.fasta -minsize 1 -strand plus -relabel OTU -uparseout 5-soils_otus/2-otus97_report.txt
+```
+
+An OTU table was then built:
+```{bash}
+usearch -usearch_global 2-amx_soil_seq/3-soils_seq_new_labels_flat_new_labels.fasta -db 5-soils_otus/2-otus97.fasta -strand both -id 0.97 -otutabout 5-soils_otus/3-97otu_table.txt -uc 5-soils_otus/3-97otu_table_report.txt
+```
+
+Taxonomy was assigned with [QIIME v.1.9.1](http://qiime.org/) (UCLUST method, and SILVA128 as database):
+```{bash}
+source activate qiime1
+assign_taxonomy.py -i 5-soils_otus/2-otus97.fasta -r databases/SILVA_128_QIIME_release/rep_set/rep_set_16S_only/97/97_otus_16S.fasta  -t databases/SILVA_128_QIIME_release/taxonomy/16S_only/97/majority_taxonomy_7_levels.txt  -o 5-soils_otus/4-silva_tax
+source deactivate
+```
+
+Finally, the taxonomic annotation was added to the sequences header in the fasta file and only Brocadiaceae-annotated OTUs were selected. This was done with this R script:
+```{R}
+# Set variables
+fasta_input <- "5-soils_otus/2-otus97.fasta"
+tax_input <- "5-soils_otus/4-silva_tax/2-otus97_tax_assignments.txt"
+
+# tax_input must be a tab-separated file with no header, with OTUs labels in the first column, and tax info in the second
+fasta_output <- "5-soils_otus/5-brocadiceae_otus.fasta"
+tax_criterion <- "Brocadiaceae"
+
+# Import the asta file as data frame
+library("Biostrings")
+
+fastaToDf <- function(fastaFile){
+    dnaSeq <- readBStringSet(fastaFile)
+    fasta_df <- data.frame(header = names(dnaSeq), sequence = paste(dnaSeq))
+}
+
+fasta_df <- fastaToDf(fasta_input)
+
+# Import the tax file as data frame
+tax_df <- read.table(tax_input, header = FALSE, sep = "\t")
+
+# Merge two the 2 dataframes
+fasta_df2 <- merge(fasta_df, tax_df, by.x = "header", by.y = "V1")
+
+fasta_df2$new_header <- paste(fasta_df2$header, fasta_df2$V2, sep = " ")
+
+# Select sequences based on taxonomic criterion
+
+fasta_df3 <- fasta_df2[grep(tax_criterion, fasta_df2$V2),]
+
+# Save the data frame as a fasta file
+
+dfToFasta <- function(header, seq, file){
+    sequence = BStringSet(seq)
+    names(sequence) <- header
+    writeXStringSet(sequence, file)
+}
+
+dfToFasta(fasta_df3$new_header, fasta_df3$sequence, fasta_output)
 ```
 
 
-#### 3) Soils OTUs
-mkdir 3-soils_otus
 
-## 3.1) Dereplicate sequences
-usearch -fastx_uniques 2-blastn/3-amx_seq_good_direction.fasta -fastaout 3-soils_otus/1-uniques.fasta -sizeout -relabel Uniq -tabbedout 3-soils_otus/1-uniques_report.txt
-
-## 3.2) Cluster OTUs at 97% similarity
-usearch -cluster_otus 3-soils_otus/1-uniques.fasta -otus 3-soils_otus/2-otus97.fasta -minsize 1 -strand plus -relabel OTU -uparseout 3-soils_otus/2-otus97_report.txt
-
-# output: 113 OTUs, 96 chimeras
-
-## 3.3) Build OTU table
-usearch -usearch_global 0-input_files/3-soils_seq_new_labels_flat_new_labels.fasta -db 3-soils_otus/2-otus97.fasta -strand both -id 0.97 -otutabout 3-soils_otus/3-97otu_table.txt -uc 3-soils_otus/3-97otu_table_report.txt
-
-
-## 3.4) Assign taxonomy QIIME v.1.9.1 (UCLUST method, and SILVA128 database)
-source activate qiime1
-assign_taxonomy.py -i 3-soils_otus/2-otus97.fasta -r ~/databases/SILVA_128_QIIME_release/rep_set/rep_set_16S_only/97/97_otus_16S.fasta  -t ~/databases/SILVA_128_QIIME_release/taxonomy/16S_only/97/majority_taxonomy_7_levels.txt  -o 3-soils_otus/4-silva_tax
-source deactivate
-
-
-## 3.5) Add taxonomic annotation to OTUs fasta file and select only Brocadiaceae-annotated OTUs
-# Run scripts/select_otus_with_tax.R
-# output file saved as: 3-soils_otus/5-brocadiceae_otus.fasta
-
-
+```
 #### 4) EP of Brocadiaceae soils OTUs
 mkdir 4-ep_soils_otus
 
