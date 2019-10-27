@@ -14,7 +14,7 @@ Note: the statistical analyses of this article are presented in another [reposit
 Firt, a reference alignment was carried out with the default parameters of mafft v.7 (http://mafft.cbrc.jp/alignment/server/). The reference sequences were retrieved from Silva database (https://www.arb-silva.de/) by selecting only 16S rRNA sequences from the 12 anammox candidate species. Two non-anammox sequences were added to the alignment (*Pseudomonas aeruginosa* PACS2 and *Gemmata obscuriglobus* UQM 2246). The fasta file of the unaligned sequences can be accessed [here](0-input_files/1-ref_tree_seq.fasta), and the alignement produced by mafft [here](1-BF_amx_tree/1-ref_set_aligned_mafft.fasta).
 
 #### 1.2) Add short sequences to the reference alignement
-Then, the short anammox sequences retrieved from this study were added to the reference alignment, by using the default parameters of th "--addfragments" option of mafft v.7. [0-input_files/1-ref_tree_seq.fasta](0-input_files/1-ref_tree_seq.fasta) was used as alignement file, and [0-input_files/2-bf_amx_seq.fasta](0-input_files/2-bf_amx_seq.fasta) was used as fragment file.
+Then, the short anammox sequences retrieved from this study were added to the reference alignment, by using the default parameters of th "--addfragments" option of mafft v.7. [0-input_files/1-ref_tree_seq.fasta](0-input_files/1-ref_tree_seq.fasta) was used as alignement file, and [0-input_files/2-bf_amx_seq.fasta](0-input_files/2-bf_amx_seq.fasta) was used as fragment file. The new alignement was saved as [1-BF_amx_tree/2-mafft_addfragments_alignment.fasta].
 * alignment file: "3-ref_set_aligned_mafft.fasta"
 * fragment file: "amx_seq.fasta"
 * output file: "mafft_addfragments_alignment.fasta"
