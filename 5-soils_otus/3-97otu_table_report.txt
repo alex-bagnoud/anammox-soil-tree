@@ -1,0 +1,1065 @@
+H	3	437	99.1	+	0	0	18I437M15I	Bagnoud_soil3 KT873862.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-2 16S ribosomal RNA gene, partial sequence	OTU4
+H	4	437	98.6	+	0	0	19I437M22I	Bagnoud_soil3 KT873863.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-4 16S ribosomal RNA gene, partial sequence	OTU5
+H	0	437	99.1	+	0	0	18I437M15I	Bagnoud_soil3 KT873864.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-6 16S ribosomal RNA gene, partial sequence	OTU1
+H	3	437	98.6	+	0	0	18I437M15I	Bagnoud_soil3 KT873866.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-15 16S ribosomal RNA gene, partial sequence	OTU4
+H	0	437	98.6	+	0	0	18I437M15I	Bagnoud_soil3 KT873865.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-7 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	437	*	.	*	*	*	Bagnoud_soil3 KT873861.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-1 16S ribosomal RNA gene, partial sequence	*
+H	0	437	99.1	+	0	0	18I437M15I	Bagnoud_soil3 KT873867.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-22 16S ribosomal RNA gene, partial sequence	OTU1
+H	4	437	98.4	+	0	0	19I437M22I	Bagnoud_soil3 KT873868.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-23 16S ribosomal RNA gene, partial sequence	OTU5
+H	3	437	99.3	+	0	0	18I437M15I	Bagnoud_soil3 KT873869.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-25 16S ribosomal RNA gene, partial sequence	OTU4
+H	0	437	99.1	+	0	0	18I437M15I	Bagnoud_soil3 KT873870.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-28 16S ribosomal RNA gene, partial sequence	OTU1
+H	3	437	99.3	+	0	0	18I437M15I	Bagnoud_soil3 KT873871.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-36 16S ribosomal RNA gene, partial sequence	OTU4
+H	3	437	98.9	+	0	0	18I437M15I	Bagnoud_soil3 KT873872.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-41 16S ribosomal RNA gene, partial sequence	OTU4
+H	3	437	98.9	+	0	0	18I437M15I	Bagnoud_soil3 KT873873.1 Uncultured candidatus Brocadiaceae bacterium clone 3b-43 16S ribosomal RNA gene, partial sequence	OTU4
+H	4	437	98.4	+	0	0	19I437M22I	Bagnoud_soil2 KT873874.1 Uncultured candidatus Brocadiaceae bacterium clone 2c-1 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	436	97.7	+	0	0	19I335MI101M22I	Bagnoud_soil2 KT873877.1 Uncultured candidatus Brocadiaceae bacterium clone 2c-14 16S ribosomal RNA gene, partial sequence	OTU5
+H	99	432	100.0	+	0	0	432M	Bagnoud_soil3 KT873879.1 Uncultured bacterium clone 3d-24 16S ribosomal RNA gene, partial sequence	OTU100
+H	4	437	98.4	+	0	0	19I437M22I	Bagnoud_soil2 KT873875.1 Uncultured candidatus Brocadiaceae bacterium clone 2c-2 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	437	98.4	+	0	0	19I437M22I	Bagnoud_soil2 KT873876.1 Uncultured candidatus Brocadiaceae bacterium clone 2c-7 16S ribosomal RNA gene, partial sequence	OTU5
+H	101	436	100.0	+	0	0	436M	Bagnoud_soil3 KT873882.1 Uncultured bacterium clone 3a-14 16S ribosomal RNA gene, partial sequence	OTU102
+H	0	437	98.6	+	0	0	18I437M15I	Bagnoud_soil3 KT873878.1 Uncultured candidatus Brocadiaceae bacterium clone 3d-1 16S ribosomal RNA gene, partial sequence	OTU1
+H	85	436	100.0	+	0	0	436M	Bagnoud_soil3 KT873883.1 Uncultured bacterium clone 3a-16 16S ribosomal RNA gene, partial sequence	OTU86
+H	89	435	97.2	+	0	0	435M	Bagnoud_soil3 KT873884.1 Uncultured bacterium clone 3a-17 16S ribosomal RNA gene, partial sequence	OTU90
+H	0	437	98.6	+	0	0	18I437M15I	Bagnoud_soil3 KT873880.1 Uncultured candidatus Brocadiaceae bacterium clone 3d-3 16S ribosomal RNA gene, partial sequence	OTU1
+H	78	436	100.0	+	0	0	436M	Bagnoud_soil3 KT873887.1 Uncultured bacterium clone 3a-7 16S ribosomal RNA gene, partial sequence	OTU79
+H	100	436	100.0	+	0	0	436M	Bagnoud_soil3 KT873888.1 Uncultured bacterium clone 3a-8 16S ribosomal RNA gene, partial sequence	OTU101
+H	66	437	98.6	+	0	0	437M	Bagnoud_soil3 KT873881.1 Uncultured candidatus Brocadiaceae bacterium clone 3a-1 16S ribosomal RNA gene, partial sequence	OTU67
+H	66	437	100.0	+	0	0	437M	Bagnoud_soil3 KT873885.1 Uncultured candidatus Brocadiaceae bacterium clone 3a-2 16S ribosomal RNA gene, partial sequence	OTU67
+H	3	437	98.9	+	0	0	18I437M15I	Bagnoud_soil3 KT873886.1 Uncultured candidatus Brocadiaceae bacterium clone 3a-3 16S ribosomal RNA gene, partial sequence	OTU4
+H	10	436	97.9	+	0	0	5I436M21I	Humbert1_enrich FM174251.1 Anammox bacterium enrichment culture clone EC-1 partial 16S rRNA gene, clone EC-1	OTU11
+H	10	436	97.5	+	0	0	5I436M21I	Humbert1_enrich FM174252.1 Anammox bacterium enrichment culture clone EC-6 partial 16S rRNA gene, clone EC-6	OTU11
+H	0	437	99.1	+	0	0	18I437M15I	Humbert1_VS FM174254.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone WaA-10-BS	OTU1
+H	0	436	98.4	+	0	0	18I374MI62M15I	Humbert1_VS FM174253.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone WaA-1-A	OTU1
+H	5	437	99.8	+	0	0	19I437M22I	Humbert1_Cad FM174255.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone CadA-1-RS	OTU6
+H	5	436	99.5	+	0	0	19I102MI334M22I	Humbert1_Cad FM174256.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone CadA-5-RS	OTU6
+H	10	436	97.7	+	0	0	5I436M21I	Humbert1_CdV FM174257.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone CdvP-1	OTU11
+H	5	437	99.5	+	0	0	19I437M22I	Humbert1_LL FM174258.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone LlF-9-RS	OTU6
+H	5	437	100.0	+	0	0	19I437M22I	Humbert1_LL FM174259.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone LlF-3-RS	OTU6
+H	5	437	99.8	+	0	0	19I437M22I	Humbert1_LN FM174260.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone LnA-3-RS	OTU6
+H	84	436	100.0	+	0	0	436M	Humbert1_Cam FM174263.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone CaMs-3	OTU85
+H	84	436	99.1	+	0	0	436M	Humbert1_Cam FM174264.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone CaMS-15	OTU85
+H	65	437	100.0	+	0	0	437M	Humbert1_Cam FM174266.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone CaMsI-3	OTU66
+H	3	437	99.5	+	0	0	18I437M15I	Humbert1_LL FM174261.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone LlR-6	OTU4
+H	74	432	100.0	+	0	0	432M	Humbert1_LN FM174268.1 Uncultured soil bacterium partial 16S rRNA gene, clone LnU-4-RS	OTU75
+H	69	431	100.0	+	0	0	431M	Humbert1_GC FM174269.1 Uncultured soil bacterium partial 16S rRNA gene, clone GcPh-6-RS020	OTU70
+N	*	436	*	.	*	*	*	Humbert1_Cam FM174267.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone CaMs-4	*
+H	68	436	100.0	+	0	0	436M	Humbert1_LL FM174271.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlR-2-RS1020	OTU69
+H	77	435	100.0	+	0	0	435M	Humbert1_Cam FM174270.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaR3-3-RS	OTU78
+H	67	435	98.6	+	0	0	125MD309M	Humbert1_LN FM174273.1 Uncultured soil bacterium partial 16S rRNA gene, clone LnU-7-RS	OTU68
+H	67	434	100.0	+	0	0	434M	Humbert1_LL FM174274.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlR-6-05	OTU68
+H	67	435	99.1	+	0	0	123MD311M	Humbert1_CdV FM174275.1 Uncultured soil bacterium partial 16S rRNA gene, clone CdvP-4	OTU68
+H	0	437	99.1	+	0	0	18I437M15I	Humbert1_GC FM174262.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone GcC-1-RS	OTU1
+H	76	434	100.0	+	0	0	434M	Humbert1_LN FM174276.1 Uncultured soil bacterium partial 16S rRNA gene, clone LnU-5-RS	OTU77
+H	64	436	100.0	+	0	0	436M	Humbert1_GC FM174278.1 Uncultured soil bacterium partial 16S rRNA gene, clone GcPh-17-RS	OTU65
+N	*	431	*	.	*	*	*	Humbert1_Cam FM174272.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPhMC-1-RS	*
+N	*	437	*	.	*	*	*	Humbert1_Cam FM174265.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, clone CaMs-2	*
+H	40	436	100.0	+	0	0	436M	Humbert1_GC FM174281.1 Uncultured soil bacterium partial 16S rRNA gene, clone GcPh-5-R	OTU41
+N	*	431	*	.	*	*	*	Humbert1_Cam FM174277.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaFf-6-BS	*
+H	92	436	100.0	+	0	0	436M	Humbert1_GC FM174283.1 Uncultured soil bacterium partial 16S rRNA gene, clone GcPh-4-RS020	OTU93
+H	41	434	100.0	+	0	0	434M	Humbert1_Cam FM174280.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPh-17-R	OTU42
+N	*	436	*	.	*	*	*	Humbert1_GC FM174284.1 Uncultured soil bacterium partial 16S rRNA gene, clone GcPh-3-RS	*
+H	90	436	100.0	+	0	0	436M	Humbert1_GC FM174282.1 Uncultured soil bacterium partial 16S rRNA gene, clone GcPh-5-RS2030	OTU91
+N	*	431	*	.	*	*	*	Humbert1_Cam FM174279.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPh-16-R	*
+H	39	434	100.0	+	0	0	434M	Humbert1_LL FM174285.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlR-9-05	OTU40
+H	42	435	100.0	+	0	0	435M	Humbert1_Cam FM174288.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPh-12-R	OTU43
+H	91	435	100.0	+	0	0	435M	Humbert1_Cam FM174289.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPh-1-R	OTU92
+H	61	434	100.0	+	0	0	434M	Humbert1_LL FM174290.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlR-5-1020	OTU62
+H	16	431	100.0	+	0	0	431M	Humbert1_Cam FM174291.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPhMC-4-RS	OTU17
+H	16	431	100.0	+	0	0	431M	Humbert1_Cam FM174292.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaR2-7	OTU17
+H	60	434	100.0	+	0	0	434M	Humbert1_Bo FM174294.1 Uncultured soil bacterium partial 16S rRNA gene, clone BoZ-6-RS	OTU61
+H	35	432	100.0	+	0	0	432M	Humbert1_Cam FM174295.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPhsec-1-R	OTU36
+H	43	433	100.0	+	0	0	433M	Humbert1_LL FM174287.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlPh-2-RS	OTU44
+H	59	432	100.0	+	0	0	432M	Humbert1_Cam FM174296.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPhsec-16-R	OTU60
+H	63	435	100.0	+	0	0	435M	Humbert1_Cam FM174298.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPh-21-R	OTU64
+H	34	432	98.4	+	0	0	184MD187MI60M	Humbert1_Cam FM174297.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPh-2-R-A	OTU35
+N	*	434	*	.	*	*	*	Humbert1_LL FM174293.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlR-17-510	*
+H	34	432	100.0	+	0	0	432M	Humbert1_Cam FM174300.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPhMC-4-R	OTU35
+H	34	433	99.3	+	0	0	182MD250M	Humbert1_Cam FM174299.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaFf-1	OTU35
+N	*	434	*	.	*	*	*	Humbert1_LL FM174286.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlPh-4-R	*
+H	37	432	100.0	+	0	0	432M	Humbert1_Cam FM174303.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaR4-2	OTU38
+H	62	432	100.0	+	0	0	432M	Humbert1_Bo FM174304.1 Uncultured soil bacterium partial 16S rRNA gene, clone BoZ-1-RS	OTU63
+N	*	433	*	.	*	*	*	Humbert1_Cam FM174302.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPh-2-R-BS	*
+H	38	431	100.0	+	0	0	431M	Humbert1_Cam FM174301.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPhMC-16-R	OTU39
+H	75	432	100.0	+	0	0	432M	Humbert1_Cam FM174305.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaSI-5	OTU76
+H	71	434	100.0	+	0	0	434M	Humbert1_LL FM174308.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlPh-6-RS	OTU72
+H	70	431	100.0	+	0	0	431M	Humbert1_LL FM174310.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlPh-1-R	OTU71
+H	36	432	100.0	+	0	0	432M	Humbert1_LL FM174309.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlPh-9-R	OTU37
+H	44	432	100.0	+	0	0	432M	Humbert1_LN FM174312.1 Uncultured soil bacterium partial 16S rRNA gene, clone LnU-2-RS	OTU45
+H	86	434	100.0	+	0	0	434M	Humbert1_LL FM174311.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlPh-2-R	OTU87
+H	45	435	100.0	+	0	0	435M	Humbert1_LL FM174314.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlR-4-1020	OTU46
+N	*	432	*	.	*	*	*	Humbert1_LL FM174307.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlPh-1-RS	*
+H	104	434	100.0	+	0	0	434M	Humbert1_GC FM174316.1 Uncultured soil bacterium partial 16S rRNA gene, clone GcPh-13-RS020	OTU105
+H	89	435	100.0	+	0	0	435M	Humbert1_GC FM174317.1 Uncultured soil bacterium partial 16S rRNA gene, clone GcPh-4-R	OTU90
+N	*	432	*	.	*	*	*	Humbert1_LL FM174313.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlR-8-05	*
+H	88	435	100.0	+	0	0	435M	Humbert1_Cam FM174318.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPh-13-RS	OTU89
+H	59	435	98.4	+	0	0	347M3D85M	Humbert1_Cam FM174320.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPh-7-R	OTU60
+N	*	432	*	.	*	*	*	Humbert1_LL FM174306.1 Uncultured soil bacterium partial 16S rRNA gene, clone LlR-13-510	*
+H	4	478	100.0	+	0	0	I477MD	Zhu_2011 GU083863.1 Uncultured Planctomycetales bacterium clone JP10-13 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	99.6	+	0	0	I477MD	Zhu_2011 GU083864.1 Uncultured Planctomycetales bacterium clone JP10-102 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	99.6	+	0	0	I477MD	Zhu_2011 GU083865.1 Uncultured Planctomycetales bacterium clone JP10-16 16S ribosomal RNA gene, partial sequence	OTU5
+H	13	432	97.5	+	0	0	18I432M22I	Humbert1_Cam FM174315.1 Uncultured soil bacterium partial 16S rRNA gene, clone CaPhMC-5-R	OTU14
+H	87	177	100.0	+	0	0	177M	Dong_2010 GQ424188.1 Uncultured bacterium clone ana-1 16S ribosomal RNA gene, partial sequence	OTU88
+H	103	435	100.0	+	0	0	435M	Humbert1_Cad FM174319.1 Uncultured soil bacterium partial 16S rRNA gene, clone CadS-3	OTU104
+H	4	478	100.0	+	0	0	I477MD	Zhu_2011 GU083867.1 Uncultured Planctomycetales bacterium clone JP10-28 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	99.8	+	0	0	478M	Zhu_2011 GU083866.1 Uncultured Planctomycetales bacterium clone JP10-22 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	100.0	+	0	0	478M	Zhu_2011 GU083868.1 Uncultured Planctomycetales bacterium clone JP10-30 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	100.0	+	0	0	478M	Zhu_2011 GU083869.1 Uncultured Planctomycetales bacterium clone JP10-32 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	99.6	+	0	0	478M	Zhu_2011 GU083870.1 Uncultured Planctomycetales bacterium clone JP10-37 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	99.8	+	0	0	478M	Zhu_2011 GU083871.1 Uncultured Planctomycetales bacterium clone JP10-92 16S ribosomal RNA gene, partial sequence	OTU5
+H	15	478	97.3	+	0	0	478M	Zhu_2011 GU083875.1 Uncultured Planctomycetales bacterium clone JP8-6 16S ribosomal RNA gene, partial sequence	OTU16
+H	15	478	99.0	+	0	0	478M	Zhu_2011 GU083876.1 Uncultured Planctomycetales bacterium clone JP8-9 16S ribosomal RNA gene, partial sequence	OTU16
+H	4	478	99.8	+	0	0	I477MD	Zhu_2011 GU083877.1 Uncultured Planctomycetales bacterium clone JP10-5 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	99.6	+	0	0	I477MD	Zhu_2011 GU083878.1 Uncultured Planctomycetales bacterium clone JP10-10 16S ribosomal RNA gene, partial sequence	OTU5
+H	3	478	97.7	+	0	0	470M8D	Zhu_2011 GU083879.1 Uncultured Planctomycetales bacterium clone JP16-23 16S ribosomal RNA gene, partial sequence	OTU4
+H	15	478	99.6	+	0	0	478M	Zhu_2011 GU083880.1 Uncultured Planctomycetales bacterium clone JP16-2 16S ribosomal RNA gene, partial sequence	OTU16
+H	3	478	98.9	+	0	0	470M8D	Zhu_2011 GU083881.1 Uncultured Planctomycetales bacterium clone JP16-3 16S ribosomal RNA gene, partial sequence	OTU4
+H	3	478	97.9	+	0	0	470M8D	Zhu_2011 GU083882.1 Uncultured Planctomycetales bacterium clone JP16-4 16S ribosomal RNA gene, partial sequence	OTU4
+H	15	478	99.6	+	0	0	478M	Zhu_2011 GU083883.1 Uncultured Planctomycetales bacterium clone JP16-5 16S ribosomal RNA gene, partial sequence	OTU16
+H	15	478	100.0	+	0	0	478M	Zhu_2011 GU083884.1 Uncultured Planctomycetales bacterium clone JP16-9 16S ribosomal RNA gene, partial sequence	OTU16
+H	15	478	98.7	+	0	0	478M	Zhu_2011 GU083885.1 Uncultured Planctomycetales bacterium clone JP16-10 16S ribosomal RNA gene, partial sequence	OTU16
+H	3	478	98.3	+	0	0	470M8D	Zhu_2011 GU083874.1 Uncultured Planctomycetales bacterium clone JP8-51 16S ribosomal RNA gene, partial sequence	OTU4
+H	15	478	98.1	+	0	0	280MD197MI	Zhu_2011 GU083886.1 Uncultured Planctomycetales bacterium clone JP16-11 16S ribosomal RNA gene, partial sequence	OTU16
+H	15	478	99.6	+	0	0	478M	Zhu_2011 GU083887.1 Uncultured Planctomycetales bacterium clone JP16-20 16S ribosomal RNA gene, partial sequence	OTU16
+H	15	478	98.7	+	0	0	478M	Zhu_2011 GU083888.1 Uncultured Planctomycetales bacterium clone JP16-30 16S ribosomal RNA gene, partial sequence	OTU16
+H	15	478	98.3	+	0	0	478M	Zhu_2011 GU083889.1 Uncultured Planctomycetales bacterium clone JP16-33 16S ribosomal RNA gene, partial sequence	OTU16
+H	3	478	98.9	+	0	0	470M8D	Zhu_2011 GU083873.1 Uncultured Planctomycetales bacterium clone JP8-4 16S ribosomal RNA gene, partial sequence	OTU4
+H	15	478	99.0	+	0	0	478M	Zhu_2011 GU083890.1 Uncultured Planctomycetales bacterium clone JP16-35 16S ribosomal RNA gene, partial sequence	OTU16
+H	3	478	97.9	+	0	0	470M8D	Zhu_2011 GU083892.1 Uncultured Planctomycetales bacterium clone JP16-42 16S ribosomal RNA gene, partial sequence	OTU4
+H	3	478	97.9	+	0	0	470M8D	Zhu_2011 GU083893.1 Uncultured Planctomycetales bacterium clone JP16-45 16S ribosomal RNA gene, partial sequence	OTU4
+H	15	478	99.6	+	0	0	478M	Zhu_2011 GU083894.1 Uncultured Planctomycetales bacterium clone JP16-53 16S ribosomal RNA gene, partial sequence	OTU16
+H	3	478	99.4	+	0	0	470M8D	Zhu_2011 GU083891.1 Uncultured Planctomycetales bacterium clone JP16-41 16S ribosomal RNA gene, partial sequence	OTU4
+H	15	478	99.4	+	0	0	478M	Zhu_2011 GU083897.1 Uncultured Planctomycetales bacterium clone JP16-64 16S ribosomal RNA gene, partial sequence	OTU16
+H	3	478	99.1	+	0	0	470M8D	Zhu_2011 GU083895.1 Uncultured Planctomycetales bacterium clone JP16-57 16S ribosomal RNA gene, partial sequence	OTU4
+H	15	478	98.3	+	0	0	478M	Zhu_2011 GU083898.1 Uncultured Planctomycetales bacterium clone JP16-65 16S ribosomal RNA gene, partial sequence	OTU16
+H	3	478	98.9	+	0	0	470M8D	Zhu_2011 GU083896.1 Uncultured Planctomycetales bacterium clone JP16-61 16S ribosomal RNA gene, partial sequence	OTU4
+H	15	478	98.5	+	0	0	478M	Zhu_2011 GU083899.1 Uncultured Planctomycetales bacterium clone JP16-78 16S ribosomal RNA gene, partial sequence	OTU16
+H	15	478	98.3	+	0	0	478M	Zhu_2011 GU083900.1 Uncultured Planctomycetales bacterium clone JP16-82 16S ribosomal RNA gene, partial sequence	OTU16
+H	15	478	100.0	+	0	0	478M	Zhu_2011 GU083901.1 Uncultured Planctomycetales bacterium clone JP16-95 16S ribosomal RNA gene, partial sequence	OTU16
+N	*	478	*	.	*	*	*	Zhu_2011 GU083902.1 Uncultured Planctomycetales bacterium clone JP8-57 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Zhu_2011 GU083903.1 Uncultured Planctomycetales bacterium clone JP8-31 16S ribosomal RNA gene, partial sequence	*
+H	15	478	97.9	+	0	0	D477MI	Zhu_2011 GU083905.1 Uncultured Planctomycetales bacterium clone JP16-34 16S ribosomal RNA gene, partial sequence	OTU16
+H	15	478	97.5	+	0	0	D477MI	Zhu_2011 GU083904.1 Uncultured Planctomycetales bacterium clone JP16-27 16S ribosomal RNA gene, partial sequence	OTU16
+N	*	478	*	.	*	*	*	Zhu_2011 GU083907.1 Uncultured Planctomycetales bacterium clone JP8-19 16S ribosomal RNA gene, partial sequence	*
+H	15	478	97.1	+	0	0	D477MI	Zhu_2011 GU083906.1 Uncultured Planctomycetales bacterium clone JP16-17 16S ribosomal RNA gene, partial sequence	OTU16
+H	15	478	97.1	+	0	0	D477MI	Zhu_2011 GU083908.1 Uncultured Planctomycetales bacterium clone JP16-16 16S ribosomal RNA gene, partial sequence	OTU16
+H	17	478	99.4	+	0	0	215MD218MI44M	Zhu_2011 GU083909.1 Uncultured Planctomycetales bacterium clone JP2-42 16S ribosomal RNA gene, partial sequence	OTU18
+H	17	478	98.3	+	0	0	215MD221MI41M	Zhu_2011 GU083910.1 Uncultured Planctomycetales bacterium clone JP2-35 16S ribosomal RNA gene, partial sequence	OTU18
+H	17	478	100.0	+	0	0	478M	Zhu_2011 GU083911.1 Uncultured Planctomycetales bacterium clone JP10-87 16S ribosomal RNA gene, partial sequence	OTU18
+N	*	478	*	.	*	*	*	Zhu_2011 GU083912.1 Uncultured Planctomycetales bacterium clone JP2-43 16S ribosomal RNA gene, partial sequence	*
+H	17	478	98.7	+	0	0	215MD118MI144M	Zhu_2011 GU083913.1 Uncultured Planctomycetales bacterium clone JP2-24 16S ribosomal RNA gene, partial sequence	OTU18
+H	17	478	97.5	+	0	0	478M	Zhu_2011 GU083914.1 Uncultured Planctomycetales bacterium clone JP2-19 16S ribosomal RNA gene, partial sequence	OTU18
+H	5	478	97.3	+	0	0	478M	Zhu_2011 GU083915.1 Uncultured Planctomycetales bacterium clone JP2-36 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	98.7	+	0	0	478M	Zhu_2011 GU083918.1 Uncultured Planctomycetales bacterium clone JP2-3 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	97.7	+	0	0	478M	Zhu_2011 GU083916.1 Uncultured Planctomycetales bacterium clone JP2-22 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	97.7	+	0	0	478M	Zhu_2011 GU083917.1 Uncultured Planctomycetales bacterium clone JP10-11 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	97.9	+	0	0	478M	Zhu_2011 GU083919.1 Uncultured Planctomycetales bacterium clone JP2-17 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	97.5	+	0	0	478M	Zhu_2011 GU083920.1 Uncultured Planctomycetales bacterium clone JP2-12 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	97.7	+	0	0	478M	Zhu_2011 GU083921.1 Uncultured Planctomycetales bacterium clone JP2-11 16S ribosomal RNA gene, partial sequence	OTU6
+H	3	478	98.1	+	0	0	470M8D	Zhu_2011 GU083872.1 Uncultured Planctomycetales bacterium clone JP8-3 16S ribosomal RNA gene, partial sequence	OTU4
+H	5	478	98.1	+	0	0	478M	Zhu_2011 GU083922.1 Uncultured Planctomycetales bacterium clone JP2-10 16S ribosomal RNA gene, partial sequence	OTU6
+H	15	478	98.5	+	0	0	D477MI	Zhu_2011 GU083923.1 Uncultured Planctomycetales bacterium clone JP16-7 16S ribosomal RNA gene, partial sequence	OTU16
+H	4	478	97.3	+	0	0	478M	Zhu_2011 GU083926.1 Uncultured Planctomycetales bacterium clone JP2-9 16S ribosomal RNA gene, partial sequence	OTU5
+H	15	478	97.9	+	0	0	D477MI	Zhu_2011 GU083924.1 Uncultured Planctomycetales bacterium clone JP16-8 16S ribosomal RNA gene, partial sequence	OTU16
+H	3	478	97.0	+	0	0	D470M7D	Zhu_2011 GU083928.1 Uncultured Planctomycetales bacterium clone JP8-8 16S ribosomal RNA gene, partial sequence	OTU4
+N	*	478	*	.	*	*	*	Zhu_2011 GU083927.1 Uncultured Planctomycetales bacterium clone JP8-11 16S ribosomal RNA gene, partial sequence	*
+H	15	478	97.9	+	0	0	D477MI	Zhu_2011 GU083925.1 Uncultured Planctomycetales bacterium clone JP16-1 16S ribosomal RNA gene, partial sequence	OTU16
+H	15	478	98.1	+	0	0	D477MI	Zhu_2011 GU083929.1 Uncultured Planctomycetales bacterium clone JP16-79 16S ribosomal RNA gene, partial sequence	OTU16
+N	*	478	*	.	*	*	*	Zhu_2011 GU083930.1 Uncultured Planctomycetales bacterium clone JP16-98 16S ribosomal RNA gene, partial sequence	*
+H	5	478	97.1	+	0	0	478M	Zhu_2011 GU083933.1 Uncultured Planctomycetales bacterium clone JP8-1 16S ribosomal RNA gene, partial sequence	OTU6
+N	*	478	*	.	*	*	*	Zhu_2011 GU083931.1 Uncultured Planctomycetales bacterium clone JP16-13 16S ribosomal RNA gene, partial sequence	*
+H	15	478	98.1	+	0	0	D477MI	Zhu_2011 GU083934.1 Uncultured Planctomycetales bacterium clone JP8-5 16S ribosomal RNA gene, partial sequence	OTU16
+N	*	478	*	.	*	*	*	Zhu_2011 GU083935.1 Uncultured Planctomycetales bacterium clone JP8-17 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Zhu_2011 GU083936.1 Uncultured Planctomycetales bacterium clone JP8-14 16S ribosomal RNA gene, partial sequence	*
+H	15	478	97.3	+	0	0	D477MI	Zhu_2011 GU083932.1 Uncultured Planctomycetales bacterium clone JP16-15 16S ribosomal RNA gene, partial sequence	OTU16
+H	4	478	97.1	+	0	0	478M	Zhu_2011 GU083938.1 Uncultured Planctomycetales bacterium clone JP10-89 16S ribosomal RNA gene, partial sequence	OTU5
+N	*	478	*	.	*	*	*	Zhu_2011 GU083937.1 Uncultured Planctomycetales bacterium clone JP8-13 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Zhu_2011 GU083939.1 Uncultured Planctomycetales bacterium clone JP10-78 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Zhu_2011 GU083940.1 Uncultured Planctomycetales bacterium clone JP10-79 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Zhu_2011 GU083941.1 Uncultured Planctomycetales bacterium clone JP10-41 16S ribosomal RNA gene, partial sequence	*
+H	4	478	100.0	+	0	0	478M	Zhu_2011 GU083945.1 Uncultured Planctomycetales bacterium clone JP10-1 16S ribosomal RNA gene, partial sequence	OTU5
+N	*	478	*	.	*	*	*	Zhu_2011 GU083942.1 Uncultured Planctomycetales bacterium clone JP10-61 16S ribosomal RNA gene, partial sequence	*
+H	4	478	100.0	+	0	0	478M	Zhu_2011 GU083946.1 Uncultured Planctomycetales bacterium clone JP10-2 16S ribosomal RNA gene, partial sequence	OTU5
+N	*	478	*	.	*	*	*	Zhu_2011 GU083943.1 Uncultured Planctomycetales bacterium clone JP10-91 16S ribosomal RNA gene, partial sequence	*
+H	4	478	100.0	+	0	0	478M	Zhu_2011 GU083947.1 Uncultured Planctomycetales bacterium clone JP10-3 16S ribosomal RNA gene, partial sequence	OTU5
+H	17	478	100.0	+	0	0	478M	Zhu_2011 GU083944.1 Uncultured Planctomycetales bacterium clone JP10-88 16S ribosomal RNA gene, partial sequence	OTU18
+H	4	478	100.0	+	0	0	478M	Zhu_2011 GU083948.1 Uncultured Planctomycetales bacterium clone JP10-4 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	100.0	+	0	0	478M	Zhu_2011 GU083949.1 Uncultured Planctomycetales bacterium clone JP10-76 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	99.8	+	0	0	478M	Zhu_2011 GU083950.1 Uncultured Planctomycetales bacterium clone JP10-6 16S ribosomal RNA gene, partial sequence	OTU5
+H	3	212	99.1	-	0	0	88I212M170I	Humbert2_soil3 FN908027.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate F3.4 10	OTU4
+H	3	212	98.6	-	0	0	88I212M170I	Humbert2_soil3 FN908028.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate F3.4 11	OTU4
+H	4	478	99.6	+	0	0	478M	Zhu_2011 GU083951.1 Uncultured Planctomycetales bacterium clone JP10-9 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	99.6	+	0	0	I477MD	Zhu_2011 GU083952.1 Uncultured Planctomycetales bacterium clone JP10-101 16S ribosomal RNA gene, partial sequence	OTU5
+H	3	212	98.1	-	0	0	88I212M170I	Humbert2_soil3 FN908029.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate F3.4 29	OTU4
+H	3	212	98.6	-	0	0	88I212M170I	Humbert2_soil3 FN908030.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate F3.4 30	OTU4
+H	3	212	98.6	-	0	0	88I212M170I	Humbert2_soil3 FN908031.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate F3.4 5	OTU4
+H	3	212	99.1	-	0	0	88I212M170I	Humbert2_LL FN908032.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R1	OTU4
+H	0	212	98.6	-	0	0	88I212M170I	Humbert2_LL FN908033.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R12	OTU1
+H	0	212	98.1	-	0	0	88I212M170I	Humbert2_LL FN908034.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R14	OTU1
+H	3	212	98.1	-	0	0	88I212M170I	Humbert2_LL FN908035.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R16	OTU4
+H	0	212	98.1	-	0	0	88I212M170I	Humbert2_LL FN908038.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R24	OTU1
+H	3	212	99.1	-	0	0	88I212M170I	Humbert2_LL FN908036.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R26	OTU4
+H	3	212	99.1	-	0	0	88I212M170I	Humbert2_LL FN908039.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R27	OTU4
+H	3	212	99.1	-	0	0	88I212M170I	Humbert2_LL FN908040.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R29	OTU4
+H	3	212	98.6	-	0	0	88I212M170I	Humbert2_LL FN908042.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R5	OTU4
+H	3	212	99.1	-	0	0	88I212M170I	Humbert2_LL FN908043.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R8	OTU4
+H	3	212	99.1	-	0	0	88I212M170I	Humbert2_LL FN908037.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R22	OTU4
+H	3	212	99.5	-	0	0	88I212M170I	Humbert2_LL FN908044.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R9	OTU4
+H	3	458	99.8	+	0	0	4I458M8I	Hu_2011 HQ637487.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB5-009 16S ribosomal RNA gene, partial sequence	OTU4
+H	83	210	100.0	-	0	0	210M	Humbert2_LL FN908041.1 Uncultured anaerobic ammonium-oxidizing bacterium partial 16S rRNA gene, isolate R4	OTU84
+H	10	462	100.0	+	0	0	462M	Sher_2012 HQ652083.1 Uncultured planctomycete isolate DGGE gel band 5GA_4 16S ribosomal RNA gene, partial sequence	OTU11
+H	5	458	97.4	+	0	0	5I458M15I	Hu_2011 HQ637489.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB5-003 16S ribosomal RNA gene, partial sequence	OTU6
+N	*	458	*	.	*	*	*	Hu_2011 HQ637488.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB5-002 16S ribosomal RNA gene, partial sequence	*
+H	10	462	100.0	+	0	0	462M	Sher_2012 HQ652085.1 Uncultured planctomycete isolate DGGE gel band 5GA_7 16S ribosomal RNA gene, partial sequence	OTU11
+H	10	462	99.8	+	0	0	462M	Sher_2012 HQ652086.1 Uncultured planctomycete isolate DGGE gel band 5GA_9 16S ribosomal RNA gene, partial sequence	OTU11
+H	10	462	100.0	+	0	0	462M	Sher_2012 HQ652082.1 Uncultured planctomycete isolate DGGE gel band 5GA_1 16S ribosomal RNA gene, partial sequence	OTU11
+H	10	462	99.6	+	0	0	462M	Sher_2012 HQ652084.1 Uncultured planctomycete isolate DGGE gel band 5GA_6 16S ribosomal RNA gene, partial sequence	OTU11
+H	10	462	100.0	+	0	0	462M	Sher_2012 HQ652089.1 Uncultured planctomycete isolate DGGE gel band 5GB_15 16S ribosomal RNA gene, partial sequence	OTU11
+H	9	441	97.2	+	0	0	D400M40D	Sher_2012 HQ652091.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 1-1 16S ribosomal RNA gene, partial sequence	OTU10
+H	9	440	98.2	+	0	0	400M40D	Sher_2012 HQ652092.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 1-2 16S ribosomal RNA gene, partial sequence	OTU10
+H	10	462	100.0	+	0	0	462M	Sher_2012 HQ652087.1 Uncultured planctomycete isolate DGGE gel band 5GB_12 16S ribosomal RNA gene, partial sequence	OTU11
+H	9	442	97.2	+	0	0	2D400M40D	Sher_2012 HQ652093.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 1-3 16S ribosomal RNA gene, partial sequence	OTU10
+H	9	400	100.0	+	0	0	400M	Sher_2012 HQ652094.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 1-4 16S ribosomal RNA gene, partial sequence	OTU10
+H	95	442	100.0	+	0	0	442M	Sher_2012 HQ652095.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 2-1 16S ribosomal RNA gene, partial sequence	OTU96
+H	58	400	100.0	+	0	0	400M	Sher_2012 HQ652096.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 2-2 16S ribosomal RNA gene, partial sequence	OTU59
+H	33	400	97.7	+	0	0	3D397M41I	Sher_2012 HQ652097.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 4-1 16S ribosomal RNA gene, partial sequence	OTU34
+H	9	442	97.5	+	0	0	2D400M40D	Sher_2012 HQ652098.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 5-1 16S ribosomal RNA gene, partial sequence	OTU10
+H	10	462	100.0	+	0	0	462M	Sher_2012 HQ652088.1 Uncultured planctomycete isolate DGGE gel band 5GB_14 16S ribosomal RNA gene, partial sequence	OTU11
+H	33	439	97.9	+	0	0	D438M	Sher_2012 HQ652099.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 5-2 16S ribosomal RNA gene, partial sequence	OTU34
+H	10	462	100.0	+	0	0	462M	Sher_2012 HQ652090.1 Uncultured planctomycete isolate DGGE gel band 5GB_19 16S ribosomal RNA gene, partial sequence	OTU11
+H	33	438	100.0	+	0	0	438M	Sher_2012 HQ652101.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 5-4 16S ribosomal RNA gene, partial sequence	OTU34
+H	9	442	98.5	+	0	0	2D400M40D	Sher_2012 HQ652100.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 5-3 16S ribosomal RNA gene, partial sequence	OTU10
+H	9	441	97.2	+	0	0	D400M40D	Sher_2012 HQ652102.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 5-5 16S ribosomal RNA gene, partial sequence	OTU10
+H	9	400	100.0	+	0	0	400M	Sher_2012 HQ652103.1 Uncultured ammonia-oxidizing bacterium isolate DGGE gel band 5-7 16S ribosomal RNA gene, partial sequence	OTU10
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176677.1 Uncultured Planctomycetales bacterium clone PSA01 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176678.1 Uncultured Planctomycetales bacterium clone PSA02 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176679.1 Uncultured Planctomycetales bacterium clone PSA03 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176681.1 Uncultured Planctomycetales bacterium clone PSA05 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	98.1	+	0	0	478M	Hu_2013 JN176680.1 Uncultured Planctomycetales bacterium clone PSA04 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176682.1 Uncultured Planctomycetales bacterium clone PSA06 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176683.1 Uncultured Planctomycetales bacterium clone PSA07 16S ribosomal RNA gene, partial sequence	OTU6
+H	0	478	98.9	+	0	0	D470M7D	Hu_2013 JN176685.1 Uncultured Planctomycetales bacterium clone PSA09 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	98.5	+	0	0	D470M7D	Hu_2013 JN176684.1 Uncultured Planctomycetales bacterium clone PSA08 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.9	+	0	0	D470M7D	Hu_2013 JN176686.1 Uncultured Planctomycetales bacterium clone PSA10 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.9	+	0	0	D470M7D	Hu_2013 JN176687.1 Uncultured Planctomycetales bacterium clone PSA11 16S ribosomal RNA gene, partial sequence	OTU1
+H	12	478	98.7	+	0	0	395MD82M	Hu_2013 JN176688.1 Uncultured Planctomycetales bacterium clone PSA12 16S ribosomal RNA gene, partial sequence	OTU13
+H	4	478	98.1	+	0	0	478M	Hu_2013 JN176690.1 Uncultured Planctomycetales bacterium clone PSA14 16S ribosomal RNA gene, partial sequence	OTU5
+H	10	477	99.4	+	0	0	14D462MD	Hu_2013 JN176691.1 Uncultured Planctomycetales bacterium clone PSA15 16S ribosomal RNA gene, partial sequence	OTU11
+H	0	478	98.7	+	0	0	D470M7D	Hu_2013 JN176692.1 Uncultured Planctomycetales bacterium clone PSA16 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.2	+	0	0	D470M7D	Hu_2013 JN176693.1 Uncultured Planctomycetales bacterium clone PSA17 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.9	+	0	0	D470M7D	Hu_2013 JN176695.1 Uncultured Planctomycetales bacterium clone PSA19 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.9	+	0	0	D470M7D	Hu_2013 JN176694.1 Uncultured Planctomycetales bacterium clone PSA18 16S ribosomal RNA gene, partial sequence	OTU1
+H	4	478	98.3	+	0	0	478M	Hu_2013 JN176689.1 Uncultured Planctomycetales bacterium clone PSA13 16S ribosomal RNA gene, partial sequence	OTU5
+H	0	478	97.4	+	0	0	D470M7D	Hu_2013 JN176696.1 Uncultured Planctomycetales bacterium clone PSA20 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.2	+	0	0	D470M7D	Hu_2013 JN176697.1 Uncultured Planctomycetales bacterium clone PSA21 16S ribosomal RNA gene, partial sequence	OTU1
+H	5	478	100.0	+	0	0	478M	Hu_2013 JN176698.1 Uncultured Planctomycetales bacterium clone PSA22 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176699.1 Uncultured Planctomycetales bacterium clone PSA23 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176702.1 Uncultured Planctomycetales bacterium clone PSA26 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176703.1 Uncultured Planctomycetales bacterium clone PSA27 16S ribosomal RNA gene, partial sequence	OTU6
+H	4	478	98.1	+	0	0	478M	Hu_2013 JN176704.1 Uncultured Planctomycetales bacterium clone PSA28 16S ribosomal RNA gene, partial sequence	OTU5
+H	5	478	99.4	+	0	0	478M	Hu_2013 JN176701.1 Uncultured Planctomycetales bacterium clone PSA25 16S ribosomal RNA gene, partial sequence	OTU6
+H	4	478	98.5	+	0	0	478M	Hu_2013 JN176705.1 Uncultured Planctomycetales bacterium clone PSA29 16S ribosomal RNA gene, partial sequence	OTU5
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176706.1 Uncultured Planctomycetales bacterium clone PSB01 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176709.1 Uncultured Planctomycetales bacterium clone PSB04 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.4	+	0	0	478M	Hu_2013 JN176710.1 Uncultured Planctomycetales bacterium clone PSB05 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176700.1 Uncultured Planctomycetales bacterium clone PSA24 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176707.1 Uncultured Planctomycetales bacterium clone PSB02 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176711.1 Uncultured Planctomycetales bacterium clone PSB06 16S ribosomal RNA gene, partial sequence	OTU6
+H	0	478	97.0	+	0	0	D470M7D	Hu_2013 JN176712.1 Uncultured Planctomycetales bacterium clone PSB07 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Hu_2013 JN176708.1 Uncultured Planctomycetales bacterium clone PSB03 16S ribosomal RNA gene, partial sequence	*
+H	0	478	98.7	+	0	0	D470M7D	Hu_2013 JN176714.1 Uncultured Planctomycetales bacterium clone PSB09 16S ribosomal RNA gene, partial sequence	OTU1
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176716.1 Uncultured Planctomycetales bacterium clone PSB11 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176715.1 Uncultured Planctomycetales bacterium clone PSB10 16S ribosomal RNA gene, partial sequence	OTU6
+N	*	478	*	.	*	*	*	Hu_2013 JN176713.1 Uncultured Planctomycetales bacterium clone PSB08 16S ribosomal RNA gene, partial sequence	*
+H	3	478	99.4	+	0	0	D470M7D	Hu_2013 JN176720.1 Uncultured Planctomycetales bacterium clone PSB15 16S ribosomal RNA gene, partial sequence	OTU4
+H	0	478	98.3	+	0	0	D470M7D	Hu_2013 JN176719.1 Uncultured Planctomycetales bacterium clone PSB14 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Hu_2013 JN176717.1 Uncultured Planctomycetales bacterium clone PSB12 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.9	+	0	0	D470M7D	Hu_2013 JN176718.1 Uncultured Planctomycetales bacterium clone PSB13 16S ribosomal RNA gene, partial sequence	OTU1
+H	5	478	99.4	+	0	0	478M	Hu_2013 JN176721.1 Uncultured Planctomycetales bacterium clone PSB16 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176722.1 Uncultured Planctomycetales bacterium clone PSB17 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.2	+	0	0	478M	Hu_2013 JN176723.1 Uncultured Planctomycetales bacterium clone PSB18 16S ribosomal RNA gene, partial sequence	OTU6
+H	4	478	97.7	+	0	0	478M	Hu_2013 JN176724.1 Uncultured Planctomycetales bacterium clone PSB19 16S ribosomal RNA gene, partial sequence	OTU5
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176725.1 Uncultured Planctomycetales bacterium clone PSB20 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176726.1 Uncultured Planctomycetales bacterium clone PSB21 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176727.1 Uncultured Planctomycetales bacterium clone PSB22 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176728.1 Uncultured Planctomycetales bacterium clone PSB23 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.4	+	0	0	478M	Hu_2013 JN176729.1 Uncultured Planctomycetales bacterium clone PSB24 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.4	+	0	0	478M	Hu_2013 JN176730.1 Uncultured Planctomycetales bacterium clone PSB25 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176731.1 Uncultured Planctomycetales bacterium clone PSB26 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176733.1 Uncultured Planctomycetales bacterium clone PSC02 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176734.1 Uncultured Planctomycetales bacterium clone PSC03 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176735.1 Uncultured Planctomycetales bacterium clone PSC04 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176736.1 Uncultured Planctomycetales bacterium clone PSC05 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176737.1 Uncultured Planctomycetales bacterium clone PSC06 16S ribosomal RNA gene, partial sequence	OTU6
+N	*	478	*	.	*	*	*	Hu_2013 JN176732.1 Uncultured Planctomycetales bacterium clone PSC01 16S ribosomal RNA gene, partial sequence	*
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176738.1 Uncultured Planctomycetales bacterium clone PSC07 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176739.1 Uncultured Planctomycetales bacterium clone PSC08 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.2	+	0	0	478M	Hu_2013 JN176740.1 Uncultured Planctomycetales bacterium clone PSC09 16S ribosomal RNA gene, partial sequence	OTU6
+H	4	478	98.3	+	0	0	478M	Hu_2013 JN176742.1 Uncultured Planctomycetales bacterium clone PSC12 16S ribosomal RNA gene, partial sequence	OTU5
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176741.1 Uncultured Planctomycetales bacterium clone PSC10 16S ribosomal RNA gene, partial sequence	OTU6
+H	4	478	98.3	+	0	0	478M	Hu_2013 JN176743.1 Uncultured Planctomycetales bacterium clone PSC13 16S ribosomal RNA gene, partial sequence	OTU5
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176744.1 Uncultured Planctomycetales bacterium clone PSC14 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176747.1 Uncultured Planctomycetales bacterium clone PSC17 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176745.1 Uncultured Planctomycetales bacterium clone PSC15 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176746.1 Uncultured Planctomycetales bacterium clone PSC16 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176748.1 Uncultured Planctomycetales bacterium clone PSC18 16S ribosomal RNA gene, partial sequence	OTU6
+H	4	478	98.1	+	0	0	478M	Hu_2013 JN176749.1 Uncultured Planctomycetales bacterium clone PSD01 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	98.1	+	0	0	478M	Hu_2013 JN176750.1 Uncultured Planctomycetales bacterium clone PSD02 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	98.5	+	0	0	478M	Hu_2013 JN176752.1 Uncultured Planctomycetales bacterium clone PSD04 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	98.3	+	0	0	478M	Hu_2013 JN176753.1 Uncultured Planctomycetales bacterium clone PSD05 16S ribosomal RNA gene, partial sequence	OTU5
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176754.1 Uncultured Planctomycetales bacterium clone PSD06 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176755.1 Uncultured Planctomycetales bacterium clone PSD07 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176756.1 Uncultured Planctomycetales bacterium clone PSD08 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.4	+	0	0	478M	Hu_2013 JN176757.1 Uncultured Planctomycetales bacterium clone PSD09 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176759.1 Uncultured Planctomycetales bacterium clone PSD11 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176760.1 Uncultured Planctomycetales bacterium clone PSD12 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176761.1 Uncultured Planctomycetales bacterium clone PSD13 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176758.1 Uncultured Planctomycetales bacterium clone PSD10 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176762.1 Uncultured Planctomycetales bacterium clone PSD14 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176763.1 Uncultured Planctomycetales bacterium clone PSD15 16S ribosomal RNA gene, partial sequence	OTU6
+H	4	478	98.3	+	0	0	478M	Hu_2013 JN176751.1 Uncultured Planctomycetales bacterium clone PSD03 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	97.7	+	0	0	478M	Hu_2013 JN176764.1 Uncultured Planctomycetales bacterium clone PSE01 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	98.5	+	0	0	478M	Hu_2013 JN176765.1 Uncultured Planctomycetales bacterium clone PSE02 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	98.3	+	0	0	478M	Hu_2013 JN176766.1 Uncultured Planctomycetales bacterium clone PSE03 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	98.1	+	0	0	478M	Hu_2013 JN176768.1 Uncultured Planctomycetales bacterium clone PSE05 16S ribosomal RNA gene, partial sequence	OTU5
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176769.1 Uncultured Planctomycetales bacterium clone PSE06 16S ribosomal RNA gene, partial sequence	OTU6
+H	4	478	98.3	+	0	0	478M	Hu_2013 JN176770.1 Uncultured Planctomycetales bacterium clone PSE07 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	97.9	+	0	0	478M	Hu_2013 JN176771.1 Uncultured Planctomycetales bacterium clone PSE08 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	98.1	+	0	0	478M	Hu_2013 JN176767.1 Uncultured Planctomycetales bacterium clone PSE04 16S ribosomal RNA gene, partial sequence	OTU5
+H	15	478	97.3	+	0	0	D477MI	Hu_2013 JN176772.1 Uncultured Planctomycetales bacterium clone PSE09 16S ribosomal RNA gene, partial sequence	OTU16
+H	5	477	99.6	+	0	0	41MI436M	Hu_2013 JN176773.1 Uncultured Planctomycetales bacterium clone PSE10 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176774.1 Uncultured Planctomycetales bacterium clone PSE11 16S ribosomal RNA gene, partial sequence	OTU6
+H	4	478	98.3	+	0	0	478M	Hu_2013 JN176776.1 Uncultured Planctomycetales bacterium clone PSE13 16S ribosomal RNA gene, partial sequence	OTU5
+H	5	478	99.8	+	0	0	478M	Hu_2013 JN176777.1 Uncultured Planctomycetales bacterium clone PSE14 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Hu_2013 JN176775.1 Uncultured Planctomycetales bacterium clone PSE12 16S ribosomal RNA gene, partial sequence	OTU6
+H	4	478	98.3	+	0	0	478M	Hu_2013 JN176778.1 Uncultured Planctomycetales bacterium clone PSF01 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	478	98.5	+	0	0	478M	Hu_2013 JN176779.1 Uncultured Planctomycetales bacterium clone PSF02 16S ribosomal RNA gene, partial sequence	OTU5
+H	12	478	98.3	+	0	0	395MD82M	Hu_2013 JN176782.1 Uncultured Planctomycetales bacterium clone PSF05 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	477	99.6	+	0	0	477M	Hu_2013 JN176780.1 Uncultured Planctomycetales bacterium clone PSF03 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	476	99.4	+	0	0	63MI413M	Hu_2013 JN176783.1 Uncultured Planctomycetales bacterium clone PSF06 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	477	99.8	+	0	0	477M	Hu_2013 JN176784.1 Uncultured Planctomycetales bacterium clone PSF07 16S ribosomal RNA gene, partial sequence	OTU13
+H	4	478	98.1	+	0	0	478M	Hu_2013 JN176786.1 Uncultured Planctomycetales bacterium clone PSF09 16S ribosomal RNA gene, partial sequence	OTU5
+H	12	477	100.0	+	0	0	477M	Hu_2013 JN176785.1 Uncultured Planctomycetales bacterium clone PSF08 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	478	98.7	+	0	0	395MD82M	Hu_2013 JN176789.1 Uncultured Planctomycetales bacterium clone PSF12 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	477	99.8	+	0	0	477M	Hu_2013 JN176787.1 Uncultured Planctomycetales bacterium clone PSF10 16S ribosomal RNA gene, partial sequence	OTU13
+N	*	477	*	.	*	*	*	Hu_2013 JN176788.1 Uncultured Planctomycetales bacterium clone PSF101 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.9	+	0	0	D470M7D	Hu_2013 JN176792.1 Uncultured Planctomycetales bacterium clone PSF15 16S ribosomal RNA gene, partial sequence	OTU1
+H	12	477	99.8	+	0	0	477M	Hu_2013 JN176791.1 Uncultured Planctomycetales bacterium clone PSF14 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	477	99.6	+	0	0	477M	Hu_2013 JN176793.1 Uncultured Planctomycetales bacterium clone PSF16 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	477	99.6	+	0	0	477M	Hu_2013 JN176781.1 Uncultured Planctomycetales bacterium clone PSF04 16S ribosomal RNA gene, partial sequence	OTU13
+N	*	477	*	.	*	*	*	Hu_2013 JN176790.1 Uncultured Planctomycetales bacterium clone PSF13 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.2	+	0	0	D470M7D	Hu_2013 JN176795.1 Uncultured Planctomycetales bacterium clone PSF18 16S ribosomal RNA gene, partial sequence	OTU1
+H	12	477	99.6	+	0	0	477M	Hu_2013 JN176794.1 Uncultured Planctomycetales bacterium clone PSF17 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	477	99.8	+	0	0	477M	Hu_2013 JN176796.1 Uncultured Planctomycetales bacterium clone PSF19 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	477	99.8	+	0	0	477M	Hu_2013 JN176797.1 Uncultured Planctomycetales bacterium clone PSF20 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	477	99.6	+	0	0	477M	Hu_2013 JN176798.1 Uncultured Planctomycetales bacterium clone PSF21 16S ribosomal RNA gene, partial sequence	OTU13
+N	*	478	*	.	*	*	*	Hu_2013 JN176799.1 Uncultured Planctomycetales bacterium clone PSF22 16S ribosomal RNA gene, partial sequence	*
+H	12	478	99.4	+	0	0	395MD82M	Hu_2013 JN176801.1 Uncultured Planctomycetales bacterium clone PSF24 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	477	99.2	+	0	0	477M	Hu_2013 JN176800.1 Uncultured Planctomycetales bacterium clone PSF23 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	477	99.8	+	0	0	477M	Hu_2013 JN176802.1 Uncultured Planctomycetales bacterium clone PSF25 16S ribosomal RNA gene, partial sequence	OTU13
+H	12	477	99.8	+	0	0	477M	Hu_2013 JN176803.1 Uncultured Planctomycetales bacterium clone PSF26 16S ribosomal RNA gene, partial sequence	OTU13
+H	2	227	97.4	+	0	0	20I227M17I	Wang_2013 JF965467.1 Uncultured bacterium clone S11-B8 16S ribosomal RNA gene, partial sequence	OTU3
+H	6	227	98.2	+	0	0	20I227M17I	Wang_2013 JF965468.1 Uncultured bacterium clone S12-B2 16S ribosomal RNA gene, partial sequence	OTU7
+H	0	478	97.0	+	0	0	D470M7D	Hu_2013 JN176804.1 Uncultured Planctomycetales bacterium clone PSF27 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	223	*	.	*	*	*	Wang_2013 JF965466.1 Uncultured bacterium clone S10-A4 16S ribosomal RNA gene, partial sequence	*
+H	110	226	100.0	+	0	0	226M	Wang_2013 JF965472.1 Uncultured bacterium clone S14-C4 16S ribosomal RNA gene, partial sequence	OTU111
+H	47	225	100.0	+	0	0	225M	Wang_2013 JF965473.1 Uncultured bacterium clone S14-H1 16S ribosomal RNA gene, partial sequence	OTU48
+N	*	226	*	.	*	*	*	Wang_2013 JF965470.1 Uncultured bacterium clone S12-E2 16S ribosomal RNA gene, partial sequence	*
+H	2	227	97.4	+	0	0	20I227M17I	Wang_2013 JF965475.1 Uncultured bacterium clone S15-I7 16S ribosomal RNA gene, partial sequence	OTU3
+H	49	228	100.0	+	0	0	228M	Wang_2013 JF965474.1 Uncultured bacterium clone S15-C11 16S ribosomal RNA gene, partial sequence	OTU50
+H	48	223	100.0	+	0	0	223M	Wang_2013 JF965469.1 Uncultured bacterium clone S12-C6 16S ribosomal RNA gene, partial sequence	OTU49
+H	2	227	97.4	+	0	0	20I227M17I	Wang_2013 JF965476.1 Uncultured bacterium clone S16-E2 16S ribosomal RNA gene, partial sequence	OTU3
+N	*	227	*	.	*	*	*	Wang_2013 JF965471.1 Uncultured bacterium clone S13-D2 16S ribosomal RNA gene, partial sequence	*
+H	6	227	97.4	+	0	0	20I227M17I	Wang_2013 JF965478.1 Uncultured bacterium clone S16-F9 16S ribosomal RNA gene, partial sequence	OTU7
+H	2	227	97.4	+	0	0	20I227M17I	Wang_2013 JF965480.1 Uncultured bacterium clone S17-H4 16S ribosomal RNA gene, partial sequence	OTU3
+H	72	226	100.0	+	0	0	226M	Wang_2013 JF965481.1 Uncultured bacterium clone S18-D3 16S ribosomal RNA gene, partial sequence	OTU73
+N	*	227	*	.	*	*	*	Wang_2013 JF965482.1 Uncultured bacterium clone S18-E11 16S ribosomal RNA gene, partial sequence	*
+N	*	226	*	.	*	*	*	Wang_2013 JF965477.1 Uncultured bacterium clone S16-E8 16S ribosomal RNA gene, partial sequence	*
+N	*	227	*	.	*	*	*	Wang_2013 JF965483.1 Uncultured bacterium clone S19-C9 16S ribosomal RNA gene, partial sequence	*
+H	112	226	100.0	+	0	0	226M	Wang_2013 JF965485.1 Uncultured bacterium clone S19-H5 16S ribosomal RNA gene, partial sequence	OTU113
+H	111	226	100.0	+	0	0	226M	Wang_2013 JF965487.1 Uncultured bacterium clone S20-A6 16S ribosomal RNA gene, partial sequence	OTU112
+N	*	227	*	.	*	*	*	Wang_2013 JF965484.1 Uncultured bacterium clone S19-F3 16S ribosomal RNA gene, partial sequence	*
+N	*	228	*	.	*	*	*	Wang_2013 JF965486.1 Uncultured bacterium clone S19-G9 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.9	+	0	0	D470M7D	Shen_2013 JQ918892.1 Uncultured Planctomycetales bacterium clone ALT-1 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.7	+	0	0	D470M7D	Shen_2013 JQ918893.1 Uncultured Planctomycetales bacterium clone ALT-2 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.7	+	0	0	D470M7D	Shen_2013 JQ918894.1 Uncultured Planctomycetales bacterium clone ALT-3 16S ribosomal RNA gene, partial sequence	OTU1
+H	93	478	100.0	+	0	0	478M	Shen_2013 JQ918895.1 Uncultured Planctomycetales bacterium clone ALT-4 16S ribosomal RNA gene, partial sequence	OTU94
+H	0	478	98.1	+	0	0	D470M7D	Shen_2013 JQ918897.1 Uncultured Planctomycetales bacterium clone ALT-6 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	227	*	.	*	*	*	Wang_2013 JF965488.1 Uncultured bacterium clone S20-L2 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2013 JQ918896.1 Uncultured Planctomycetales bacterium clone ALT-5 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.2	+	0	0	D470M7D	Shen_2013 JQ918900.1 Uncultured Planctomycetales bacterium clone ALT-9 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918898.1 Uncultured Planctomycetales bacterium clone ALT-7 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2013 JQ918899.1 Uncultured Planctomycetales bacterium clone ALT-8 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.7	+	0	0	D470M7D	Shen_2013 JQ918901.1 Uncultured Planctomycetales bacterium clone ALT-10 16S ribosomal RNA gene, partial sequence	OTU1
+H	94	477	100.0	+	0	0	477M	Shen_2013 JQ918903.1 Uncultured Planctomycetales bacterium clone ALT-12 16S ribosomal RNA gene, partial sequence	OTU95
+H	0	478	97.9	+	0	0	D470M7D	Shen_2013 JQ918904.1 Uncultured Planctomycetales bacterium clone ALT-13 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918902.1 Uncultured Planctomycetales bacterium clone ALT-11 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.9	+	0	0	D470M7D	Shen_2013 JQ918905.1 Uncultured Planctomycetales bacterium clone ALT-14 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918906.1 Uncultured Planctomycetales bacterium clone ALT-15 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2013 JQ918908.1 Uncultured Planctomycetales bacterium clone ALT-17 16S ribosomal RNA gene, partial sequence	*
+N	*	477	*	.	*	*	*	Shen_2013 JQ918907.1 Uncultured Planctomycetales bacterium clone ALT-16 16S ribosomal RNA gene, partial sequence	*
+H	0	478	98.1	+	0	0	D470M7D	Shen_2013 JQ918911.1 Uncultured Planctomycetales bacterium clone BH-1 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918910.1 Uncultured Planctomycetales bacterium clone ALT-19 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.4	+	0	0	D470M7D	Shen_2013 JQ918912.1 Uncultured Planctomycetales bacterium clone BH-2 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918909.1 Uncultured Planctomycetales bacterium clone ALT-18 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.9	+	0	0	D470M7D	Shen_2013 JQ918913.1 Uncultured Planctomycetales bacterium clone BH-3 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.2	+	0	0	D470M7D	Shen_2013 JQ918914.1 Uncultured Planctomycetales bacterium clone BH-4 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.0	+	0	0	D470M7D	Shen_2013 JQ918916.1 Uncultured Planctomycetales bacterium clone BH-6 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.9	+	0	0	D470M7D	Shen_2013 JQ918917.1 Uncultured Planctomycetales bacterium clone BH-7 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	229	*	.	*	*	*	Wang_2013 JF965479.1 Uncultured bacterium clone S17-B9 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2013 JQ918915.1 Uncultured Planctomycetales bacterium clone BH-5 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.9	+	0	0	D470M7D	Shen_2013 JQ918919.1 Uncultured Planctomycetales bacterium clone BH-9 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918918.1 Uncultured Planctomycetales bacterium clone BH-8 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2013 JQ918920.1 Uncultured Planctomycetales bacterium clone BH-10 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2013 JQ918921.1 Uncultured Planctomycetales bacterium clone BH-11 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.0	+	0	0	D470M7D	Shen_2013 JQ918924.1 Uncultured Planctomycetales bacterium clone BH-14 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.0	+	0	0	D470M7D	Shen_2013 JQ918925.1 Uncultured Planctomycetales bacterium clone BH-15 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918923.1 Uncultured Planctomycetales bacterium clone BH-13 16S ribosomal RNA gene, partial sequence	*
+H	15	478	97.1	+	0	0	D477MI	Shen_2013 JQ918926.1 Uncultured Planctomycetales bacterium clone BH-16 16S ribosomal RNA gene, partial sequence	OTU16
+H	0	478	97.2	+	0	0	D470M7D	Shen_2013 JQ918927.1 Uncultured Planctomycetales bacterium clone CC-1 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918922.1 Uncultured Planctomycetales bacterium clone BH-12 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2013 JQ918928.1 Uncultured Planctomycetales bacterium clone CC-2 16S ribosomal RNA gene, partial sequence	*
+H	5	478	99.8	+	0	0	478M	Shen_2013 JQ918932.1 Uncultured Planctomycetales bacterium clone CF-2 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	100.0	+	0	0	478M	Shen_2013 JQ918931.1 Uncultured Planctomycetales bacterium clone CF-1 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Shen_2013 JQ918933.1 Uncultured Planctomycetales bacterium clone CF-3 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Shen_2013 JQ918934.1 Uncultured Planctomycetales bacterium clone CF-4 16S ribosomal RNA gene, partial sequence	OTU6
+N	*	478	*	.	*	*	*	Shen_2013 JQ918929.1 Uncultured Planctomycetales bacterium clone CC-3 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2013 JQ918930.1 Uncultured Planctomycetales bacterium clone CC-4 16S ribosomal RNA gene, partial sequence	*
+H	5	478	100.0	+	0	0	478M	Shen_2013 JQ918935.1 Uncultured Planctomycetales bacterium clone CF-5 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Shen_2013 JQ918939.1 Uncultured Planctomycetales bacterium clone CS-4 16S ribosomal RNA gene, partial sequence	OTU6
+N	*	478	*	.	*	*	*	Shen_2013 JQ918938.1 Uncultured Planctomycetales bacterium clone CS-3 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2013 JQ918936.1 Uncultured Planctomycetales bacterium clone CS-1 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.0	+	0	0	D470M7D	Shen_2013 JQ918940.1 Uncultured Planctomycetales bacterium clone CS-5 16S ribosomal RNA gene, partial sequence	OTU1
+H	5	478	97.9	+	0	0	478M	Shen_2013 JQ918937.1 Uncultured Planctomycetales bacterium clone CS-2 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	97.7	+	0	0	478M	Shen_2013 JQ918942.1 Uncultured Planctomycetales bacterium clone CS-7 16S ribosomal RNA gene, partial sequence	OTU6
+H	0	478	97.0	+	0	0	D470M7D	Shen_2013 JQ918944.1 Uncultured Planctomycetales bacterium clone CS-9 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918941.1 Uncultured Planctomycetales bacterium clone CS-6 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2013 JQ918943.1 Uncultured Planctomycetales bacterium clone CS-8 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.0	+	0	0	D470M7D	Shen_2013 JQ918946.1 Uncultured Planctomycetales bacterium clone CS-11 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.0	+	0	0	D470M7D	Shen_2013 JQ918947.1 Uncultured Planctomycetales bacterium clone CS-12 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918945.1 Uncultured Planctomycetales bacterium clone CS-10 16S ribosomal RNA gene, partial sequence	*
+H	46	477	100.0	+	0	0	477M	Shen_2013 JQ918951.1 Uncultured Planctomycetales bacterium clone DT-3 16S ribosomal RNA gene, partial sequence	OTU47
+H	0	478	97.2	+	0	0	D470M7D	Shen_2013 JQ918950.1 Uncultured Planctomycetales bacterium clone DT-2 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918948.1 Uncultured Planctomycetales bacterium clone CS-13 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.7	+	0	0	D470M7D	Shen_2013 JQ918952.1 Uncultured Planctomycetales bacterium clone DT-4 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.7	+	0	0	D470M7D	Shen_2013 JQ918949.1 Uncultured Planctomycetales bacterium clone DT-1 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.7	+	0	0	D470M7D	Shen_2013 JQ918953.1 Uncultured Planctomycetales bacterium clone DT-5 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.0	+	0	0	D470M7D	Shen_2013 JQ918954.1 Uncultured Planctomycetales bacterium clone DT-6 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918955.1 Uncultured Planctomycetales bacterium clone DT-7 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.9	+	0	0	D470M7D	Shen_2013 JQ918959.1 Uncultured Planctomycetales bacterium clone GY-1 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2013 JQ918957.1 Uncultured Planctomycetales bacterium clone DT-9 16S ribosomal RNA gene, partial sequence	*
+H	105	478	100.0	+	0	0	478M	Shen_2013 JQ918960.1 Uncultured Planctomycetales bacterium clone GY-2 16S ribosomal RNA gene, partial sequence	OTU106
+N	*	477	*	.	*	*	*	Shen_2013 JQ918958.1 Uncultured Planctomycetales bacterium clone DT-10 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2013 JQ918956.1 Uncultured Planctomycetales bacterium clone DT-8 16S ribosomal RNA gene, partial sequence	*
+H	107	228	100.0	+	0	0	228M	Han_2013 KF286660.1 Uncultured planctomycete isolate DGGE gel band X01 16S ribosomal RNA gene, partial sequence	OTU108
+H	106	228	98.2	+	0	0	228M	Han_2013 KF286664.1 Uncultured planctomycete isolate DGGE gel band X05 16S ribosomal RNA gene, partial sequence	OTU107
+H	106	228	100.0	+	0	0	228M	Han_2013 KF286665.1 Uncultured planctomycete isolate DGGE gel band X06 16S ribosomal RNA gene, partial sequence	OTU107
+N	*	228	*	.	*	*	*	Han_2013 KF286661.1 Uncultured planctomycete isolate DGGE gel band X02 16S ribosomal RNA gene, partial sequence	*
+H	106	228	97.8	+	0	0	228M	Han_2013 KF286666.1 Uncultured planctomycete isolate DGGE gel band X07 16S ribosomal RNA gene, partial sequence	OTU107
+H	2	228	97.4	+	0	0	I228M35I	Han_2013 KF286667.1 Uncultured planctomycete isolate DGGE gel band X08 16S ribosomal RNA gene, partial sequence	OTU3
+H	5	228	97.8	+	0	0	210I228M40I	Han_2013 KF286668.1 Uncultured planctomycete isolate DGGE gel band X09 16S ribosomal RNA gene, partial sequence	OTU6
+N	*	228	*	.	*	*	*	Han_2013 KF286662.1 Uncultured planctomycete isolate DGGE gel band X03 16S ribosomal RNA gene, partial sequence	*
+H	2	228	100.0	+	0	0	I228M35I	Han_2013 KF286669.1 Uncultured planctomycete isolate DGGE gel band X10 16S ribosomal RNA gene, partial sequence	OTU3
+H	6	228	99.1	+	0	0	I228M35I	Han_2013 KF286672.1 Uncultured planctomycete isolate DGGE gel band X13 16S ribosomal RNA gene, partial sequence	OTU7
+N	*	228	*	.	*	*	*	Han_2013 KF286663.1 Uncultured planctomycete isolate DGGE gel band X04 16S ribosomal RNA gene, partial sequence	*
+N	*	228	*	.	*	*	*	Han_2013 KF286670.1 Uncultured planctomycete isolate DGGE gel band X11 16S ribosomal RNA gene, partial sequence	*
+H	109	228	100.0	+	0	0	228M	Han_2013 KF286671.1 Uncultured planctomycete isolate DGGE gel band X12 16S ribosomal RNA gene, partial sequence	OTU110
+H	6	228	97.8	+	0	0	I228M35I	Han_2013 KF286675.1 Uncultured planctomycete isolate DGGE gel band X16 16S ribosomal RNA gene, partial sequence	OTU7
+H	108	228	100.0	+	0	0	228M	Han_2013 KF286673.1 Uncultured planctomycete isolate DGGE gel band X14 16S ribosomal RNA gene, partial sequence	OTU109
+H	2	228	98.7	+	0	0	I228M35I	Han_2013 KF286677.1 Uncultured planctomycete isolate DGGE gel band X18 16S ribosomal RNA gene, partial sequence	OTU3
+N	*	228	*	.	*	*	*	Han_2013 KF286674.1 Uncultured planctomycete isolate DGGE gel band X15 16S ribosomal RNA gene, partial sequence	*
+N	*	228	*	.	*	*	*	Han_2013 KF286676.1 Uncultured planctomycete isolate DGGE gel band X17 16S ribosomal RNA gene, partial sequence	*
+H	5	228	97.8	+	0	0	210I228M40I	Han_2013 KF286679.1 Uncultured planctomycete isolate DGGE gel band X20 16S ribosomal RNA gene, partial sequence	OTU6
+H	2	228	97.8	+	0	0	I228M35I	Han_2013 KF286680.1 Uncultured planctomycete isolate DGGE gel band X21 16S ribosomal RNA gene, partial sequence	OTU3
+H	5	228	98.2	+	0	0	210I228M40I	Han_2013 KF286681.1 Uncultured planctomycete isolate DGGE gel band X22 16S ribosomal RNA gene, partial sequence	OTU6
+H	73	227	100.0	+	0	0	227M	Han_2013 KF286682.1 Uncultured planctomycete isolate DGGE gel band X23 16S ribosomal RNA gene, partial sequence	OTU74
+H	6	264	98.5	+	0	0	264M	Han_2013 KF286781.1 Uncultured planctomycete clone 3Sm-02 16S ribosomal RNA gene, partial sequence	OTU7
+H	6	264	99.2	+	0	0	264M	Han_2013 KF286782.1 Uncultured planctomycete clone 3Sm-03 16S ribosomal RNA gene, partial sequence	OTU7
+H	6	264	99.6	+	0	0	264M	Han_2013 KF286783.1 Uncultured planctomycete clone 3Sm-04 16S ribosomal RNA gene, partial sequence	OTU7
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286780.1 Uncultured planctomycete clone 3Sm-01 16S ribosomal RNA gene, partial sequence	OTU3
+H	2	264	99.6	+	0	0	264M	Han_2013 KF286784.1 Uncultured planctomycete clone 3Sm-05 16S ribosomal RNA gene, partial sequence	OTU3
+H	6	264	100.0	+	0	0	264M	Han_2013 KF286786.1 Uncultured planctomycete clone 3Sm-07 16S ribosomal RNA gene, partial sequence	OTU7
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286785.1 Uncultured planctomycete clone 3Sm-06 16S ribosomal RNA gene, partial sequence	OTU3
+H	6	264	99.6	+	0	0	264M	Han_2013 KF286788.1 Uncultured planctomycete clone 3Sm-09 16S ribosomal RNA gene, partial sequence	OTU7
+H	6	264	98.9	+	0	0	264M	Han_2013 KF286789.1 Uncultured planctomycete clone 3Sm-10 16S ribosomal RNA gene, partial sequence	OTU7
+H	6	264	100.0	+	0	0	264M	Han_2013 KF286790.1 Uncultured planctomycete clone 3Sm-11 16S ribosomal RNA gene, partial sequence	OTU7
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286787.1 Uncultured planctomycete clone 3Sm-08 16S ribosomal RNA gene, partial sequence	OTU3
+H	6	264	99.2	+	0	0	264M	Han_2013 KF286791.1 Uncultured planctomycete clone 3Sm-12 16S ribosomal RNA gene, partial sequence	OTU7
+H	6	264	99.6	+	0	0	264M	Han_2013 KF286793.1 Uncultured planctomycete clone 3Sm-14 16S ribosomal RNA gene, partial sequence	OTU7
+H	6	264	99.2	+	0	0	264M	Han_2013 KF286794.1 Uncultured planctomycete clone 3Sm-16 16S ribosomal RNA gene, partial sequence	OTU7
+H	2	264	99.6	+	0	0	264M	Han_2013 KF286792.1 Uncultured planctomycete clone 3Sm-13 16S ribosomal RNA gene, partial sequence	OTU3
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286795.1 Uncultured planctomycete clone 3Sm-17 16S ribosomal RNA gene, partial sequence	OTU3
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286796.1 Uncultured planctomycete clone 3Sm-18 16S ribosomal RNA gene, partial sequence	OTU3
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286797.1 Uncultured planctomycete clone 3Sm-19 16S ribosomal RNA gene, partial sequence	OTU3
+H	2	264	99.6	+	0	0	264M	Han_2013 KF286798.1 Uncultured planctomycete clone 3Sm-20 16S ribosomal RNA gene, partial sequence	OTU3
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286800.1 Uncultured planctomycete clone 3Sm-22 16S ribosomal RNA gene, partial sequence	OTU3
+H	2	264	99.2	+	0	0	264M	Han_2013 KF286801.1 Uncultured planctomycete clone 3Sm-23 16S ribosomal RNA gene, partial sequence	OTU3
+H	6	264	98.1	+	0	0	264M	Han_2013 KF286799.1 Uncultured planctomycete clone 3Sm-21 16S ribosomal RNA gene, partial sequence	OTU7
+H	6	264	100.0	+	0	0	264M	Han_2013 KF286803.1 Uncultured planctomycete clone 3Sm-25 16S ribosomal RNA gene, partial sequence	OTU7
+H	6	264	98.9	+	0	0	264M	Han_2013 KF286805.1 Uncultured planctomycete clone 3Sm-27 16S ribosomal RNA gene, partial sequence	OTU7
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286802.1 Uncultured planctomycete clone 3Sm-24 16S ribosomal RNA gene, partial sequence	OTU3
+H	6	264	99.6	+	0	0	264M	Han_2013 KF286806.1 Uncultured planctomycete clone 3Sm-28 16S ribosomal RNA gene, partial sequence	OTU7
+H	6	264	98.5	+	0	0	264M	Han_2013 KF286807.1 Uncultured planctomycete clone 3Sm-29 16S ribosomal RNA gene, partial sequence	OTU7
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286804.1 Uncultured planctomycete clone 3Sm-26 16S ribosomal RNA gene, partial sequence	OTU3
+H	6	264	100.0	+	0	0	264M	Han_2013 KF286809.1 Uncultured planctomycete clone 3Sm-31 16S ribosomal RNA gene, partial sequence	OTU7
+H	6	264	98.9	+	0	0	264M	Han_2013 KF286810.1 Uncultured planctomycete clone 3Sm-32 16S ribosomal RNA gene, partial sequence	OTU7
+N	*	228	*	.	*	*	*	Han_2013 KF286678.1 Uncultured planctomycete isolate DGGE gel band X19 16S ribosomal RNA gene, partial sequence	*
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286808.1 Uncultured planctomycete clone 3Sm-30 16S ribosomal RNA gene, partial sequence	OTU3
+H	6	264	99.6	+	0	0	264M	Han_2013 KF286812.1 Uncultured planctomycete clone 3Sm-34 16S ribosomal RNA gene, partial sequence	OTU7
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286811.1 Uncultured planctomycete clone 3Sm-33 16S ribosomal RNA gene, partial sequence	OTU3
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286814.1 Uncultured planctomycete clone 3Sm-36 16S ribosomal RNA gene, partial sequence	OTU3
+H	2	264	100.0	+	0	0	264M	Han_2013 KF286815.1 Uncultured planctomycete clone 3Sm-37 16S ribosomal RNA gene, partial sequence	OTU3
+H	6	264	100.0	+	0	0	264M	Han_2013 KF286817.1 Uncultured planctomycete clone 3Sm-39 16S ribosomal RNA gene, partial sequence	OTU7
+H	6	264	99.2	+	0	0	264M	Han_2013 KF286818.1 Uncultured planctomycete clone 3Sm-40 16S ribosomal RNA gene, partial sequence	OTU7
+H	2	264	99.2	+	0	0	264M	Han_2013 KF286816.1 Uncultured planctomycete clone 3Sm-38 16S ribosomal RNA gene, partial sequence	OTU3
+H	5	477	98.3	+	0	0	I477M	Shen_2014 KF754816.1 Uncultured bacterium clone SA10-2 16S ribosomal RNA gene, complete sequence	OTU6
+N	*	477	*	.	*	*	*	Shen_2014 KF754815.1 Uncultured bacterium clone SA10-1 16S ribosomal RNA gene, complete sequence	*
+H	6	264	100.0	+	0	0	264M	Han_2013 KF286813.1 Uncultured planctomycete clone 3Sm-35 16S ribosomal RNA gene, partial sequence	OTU7
+N	*	477	*	.	*	*	*	Shen_2014 KF754817.1 Uncultured bacterium clone SA10-3 16S ribosomal RNA gene, complete sequence	*
+H	5	477	100.0	+	0	0	I477M	Shen_2014 KF754820.1 Uncultured bacterium clone SA10-6 16S ribosomal RNA gene, complete sequence	OTU6
+N	*	477	*	.	*	*	*	Shen_2014 KF754818.1 Uncultured bacterium clone SA10-4 16S ribosomal RNA gene, complete sequence	*
+H	15	477	98.5	+	0	0	477MI	Shen_2014 KF754822.1 Uncultured bacterium clone SA30-1 16S ribosomal RNA gene, complete sequence	OTU16
+N	*	477	*	.	*	*	*	Shen_2014 KF754819.1 Uncultured bacterium clone SA10-5 16S ribosomal RNA gene, complete sequence	*
+H	15	477	98.3	+	0	0	477MI	Shen_2014 KF754823.1 Uncultured bacterium clone SA30-2 16S ribosomal RNA gene, complete sequence	OTU16
+H	15	477	98.5	+	0	0	477MI	Shen_2014 KF754825.1 Uncultured bacterium clone SA60-1 16S ribosomal RNA gene, complete sequence	OTU16
+H	15	477	98.3	+	0	0	477MI	Shen_2014 KF754824.1 Uncultured bacterium clone SA30-3 16S ribosomal RNA gene, complete sequence	OTU16
+H	15	477	98.1	+	0	0	477MI	Shen_2014 KF754826.1 Uncultured bacterium clone SA60-3 16S ribosomal RNA gene, complete sequence	OTU16
+H	15	477	98.5	+	0	0	477MI	Shen_2014 KF754827.1 Uncultured bacterium clone SA60-4 16S ribosomal RNA gene, complete sequence	OTU16
+H	15	477	97.9	+	0	0	477MI	Shen_2014 KF754829.1 Uncultured bacterium clone SA60-6 16S ribosomal RNA gene, complete sequence	OTU16
+H	15	477	98.5	+	0	0	477MI	Shen_2014 KF754830.1 Uncultured bacterium clone SA60-7 16S ribosomal RNA gene, complete sequence	OTU16
+H	96	477	100.0	+	0	0	477M	Shen_2014 KF754828.1 Uncultured bacterium clone SA60-5 16S ribosomal RNA gene, complete sequence	OTU97
+H	0	477	97.0	+	0	0	470M7D	Shen_2014 KF754832.1 Uncultured bacterium clone SA100-1 16S ribosomal RNA gene, complete sequence	OTU1
+N	*	477	*	.	*	*	*	Shen_2014 KF754821.1 Uncultured bacterium clone SA10-7 16S ribosomal RNA gene, complete sequence	*
+N	*	477	*	.	*	*	*	Shen_2014 KF754831.1 Uncultured bacterium clone SA60-8 16S ribosomal RNA gene, complete sequence	*
+N	*	477	*	.	*	*	*	Shen_2014 KF754833.1 Uncultured bacterium clone SA100-2 16S ribosomal RNA gene, complete sequence	*
+N	*	477	*	.	*	*	*	Shen_2014 KF754834.1 Uncultured bacterium clone SA100-3 16S ribosomal RNA gene, complete sequence	*
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508414.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_1 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508415.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_2 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	477	*	.	*	*	*	Shen_2014 KF754835.1 Uncultured bacterium clone SA100-4 16S ribosomal RNA gene, complete sequence	*
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508417.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_4 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508418.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_5 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508419.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_6 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508420.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_7 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508416.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_3 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	477	*	.	*	*	*	Shen_2014 KF754836.1 Uncultured bacterium clone SA100-5 16S ribosomal RNA gene, complete sequence	*
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508421.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_8 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	97.9	+	0	0	470M7D	Yang_2015 KJ508422.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_9 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508423.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_10 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508424.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_11 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508425.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_12 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508427.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_14 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508428.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_15 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508429.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_16 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508426.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_13 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508430.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_17 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508431.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_18 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	97.9	+	0	0	470M7D	Yang_2015 KJ508432.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_19 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508433.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_20 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508436.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_23 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508434.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_21 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508435.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_22 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508437.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_24 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508438.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_25 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508439.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_26 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508440.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_27 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508441.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_29 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508442.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_30 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508443.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_31 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508444.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_32 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508445.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_33 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508446.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_34 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508448.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_36 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508450.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_38 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508447.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_35 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508451.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_39 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508452.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_40 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508449.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_37 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508453.1 Uncultured anaerobic ammonium-oxidizing bacterium clone ZJ_41 16S ribosomal RNA gene, partial sequence	OTU1
+H	19	472	100.0	+	0	0	472M	Yang_2015 KJ508455.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_5 16S ribosomal RNA gene, partial sequence	OTU20
+H	52	472	100.0	+	0	0	472M	Yang_2015 KJ508454.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_2 16S ribosomal RNA gene, partial sequence	OTU53
+H	18	475	98.9	+	0	0	475M	Yang_2015 KJ508457.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_10 16S ribosomal RNA gene, partial sequence	OTU19
+H	11	472	97.5	+	0	0	472M	Yang_2015 KJ508459.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_16 16S ribosomal RNA gene, partial sequence	OTU12
+H	18	475	98.9	+	0	0	475M	Yang_2015 KJ508460.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_17 16S ribosomal RNA gene, partial sequence	OTU19
+H	54	472	100.0	+	0	0	472M	Yang_2015 KJ508462.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_20 16S ribosomal RNA gene, partial sequence	OTU55
+N	*	472	*	.	*	*	*	Yang_2015 KJ508456.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_7 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508458.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_12 16S ribosomal RNA gene, partial sequence	*
+H	13	472	97.2	+	0	0	472M	Yang_2015 KJ508465.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_25 16S ribosomal RNA gene, partial sequence	OTU14
+N	*	471	*	.	*	*	*	Yang_2015 KJ508461.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_18 16S ribosomal RNA gene, partial sequence	*
+H	53	472	100.0	+	0	0	472M	Yang_2015 KJ508466.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_26 16S ribosomal RNA gene, partial sequence	OTU54
+H	18	475	100.0	+	0	0	475M	Yang_2015 KJ508467.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_27 16S ribosomal RNA gene, partial sequence	OTU19
+N	*	475	*	.	*	*	*	Yang_2015 KJ508464.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_22 16S ribosomal RNA gene, partial sequence	*
+H	23	472	98.5	+	0	0	472M	Yang_2015 KJ508463.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_21 16S ribosomal RNA gene, partial sequence	OTU24
+H	20	472	100.0	+	0	0	472M	Yang_2015 KJ508470.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_34 16S ribosomal RNA gene, partial sequence	OTU21
+N	*	475	*	.	*	*	*	Yang_2015 KJ508468.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_28 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508471.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_36 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508472.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_37 16S ribosomal RNA gene, partial sequence	*
+H	11	472	98.5	+	0	0	472M	Yang_2015 KJ508474.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_39 16S ribosomal RNA gene, partial sequence	OTU12
+H	23	472	98.9	+	0	0	472M	Yang_2015 KJ508469.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_30 16S ribosomal RNA gene, partial sequence	OTU24
+H	18	475	97.1	+	0	0	475M	Yang_2015 KJ508476.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_3 16S ribosomal RNA gene, partial sequence	OTU19
+H	18	475	97.1	+	0	0	475M	Yang_2015 KJ508477.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_5 16S ribosomal RNA gene, partial sequence	OTU19
+H	98	476	100.0	+	0	0	476M	Yang_2015 KJ508478.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_8 16S ribosomal RNA gene, partial sequence	OTU99
+H	18	475	97.1	+	0	0	475M	Yang_2015 KJ508479.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_11 16S ribosomal RNA gene, partial sequence	OTU19
+N	*	471	*	.	*	*	*	Yang_2015 KJ508475.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_42 16S ribosomal RNA gene, partial sequence	*
+H	23	472	98.5	+	0	0	472M	Yang_2015 KJ508473.1 Uncultured anaerobic ammonium-oxidizing bacterium clone YT_38 16S ribosomal RNA gene, partial sequence	OTU24
+N	*	475	*	.	*	*	*	Yang_2015 KJ508480.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_12 16S ribosomal RNA gene, partial sequence	*
+N	*	475	*	.	*	*	*	Yang_2015 KJ508481.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_16 16S ribosomal RNA gene, partial sequence	*
+H	18	475	97.3	+	0	0	475M	Yang_2015 KJ508484.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_23 16S ribosomal RNA gene, partial sequence	OTU19
+N	*	475	*	.	*	*	*	Yang_2015 KJ508482.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_20 16S ribosomal RNA gene, partial sequence	*
+H	18	475	97.3	+	0	0	475M	Yang_2015 KJ508487.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_31 16S ribosomal RNA gene, partial sequence	OTU19
+N	*	475	*	.	*	*	*	Yang_2015 KJ508483.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_21 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508485.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_26 16S ribosomal RNA gene, partial sequence	*
+H	1	476	99.2	+	0	0	476M	Yang_2015 KJ508490.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_3 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508488.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_1 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.2	+	0	0	476M	Yang_2015 KJ508489.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_2 16S ribosomal RNA gene, partial sequence	OTU2
+N	*	475	*	.	*	*	*	Yang_2015 KJ508486.1 Uncultured anaerobic ammonium-oxidizing bacterium clone TY_29 16S ribosomal RNA gene, partial sequence	*
+H	1	476	99.6	+	0	0	476M	Yang_2015 KJ508491.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_4 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508492.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_5 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508493.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_7 16S ribosomal RNA gene, partial sequence	OTU2
+H	97	477	100.0	+	0	0	477M	Yang_2015 KJ508497.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_11 16S ribosomal RNA gene, partial sequence	OTU98
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508494.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_8 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.6	+	0	0	476M	Yang_2015 KJ508495.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_9 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508499.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_13 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508496.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_10 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508501.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_15 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508498.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_12 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508503.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_17 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508500.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_14 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508505.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_19 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	97.7	+	0	0	470M7D	Yang_2015 KJ508506.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_20 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	99.4	+	0	0	476M	Yang_2015 KJ508504.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_18 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508507.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_21 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508510.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_24 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508508.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_22 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508509.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_23 16S ribosomal RNA gene, partial sequence	OTU2
+N	*	476	*	.	*	*	*	Yang_2015 KJ508502.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_16 16S ribosomal RNA gene, partial sequence	*
+H	1	476	99.6	+	0	0	476M	Yang_2015 KJ508512.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_26 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508511.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_25 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508513.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_27 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508515.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_29 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508516.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_30 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508514.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_28 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508517.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_31 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508518.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_32 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508519.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_33 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508520.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_34 16S ribosomal RNA gene, partial sequence	OTU1
+H	50	477	100.0	+	0	0	477M	Yang_2015 KJ508521.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_35 16S ribosomal RNA gene, partial sequence	OTU51
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508522.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_37 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508526.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_41 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	99.6	+	0	0	476M	Yang_2015 KJ508523.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_38 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508524.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_39 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508525.1 Uncultured anaerobic ammonium-oxidizing bacterium clone SC_40 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508528.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_2 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508530.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_4 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508527.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_1 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508529.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_3 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508531.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_5 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508533.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_7 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	98.7	+	0	0	476M	Yang_2015 KJ508532.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_6 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508537.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_12 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508538.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_13 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	99.2	+	0	0	476M	Yang_2015 KJ508534.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_9 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508535.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_10 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508536.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_11 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508539.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_14 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508542.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_18 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508543.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_19 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508540.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_15 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508541.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_17 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508546.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_23 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508544.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_20 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508545.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_21 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508547.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_24 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508551.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_31 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508549.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_28 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508550.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_30 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508554.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_34 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	475	*	.	*	*	*	Yang_2015 KJ508548.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_26 16S ribosomal RNA gene, partial sequence	*
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508552.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_32 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.6	+	0	0	476M	Yang_2015 KJ508553.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_33 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508558.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_39 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508559.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_40 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508556.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_37 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508555.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_35 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508557.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_38 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508562.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_1 16S ribosomal RNA gene, partial sequence	OTU1
+H	51	477	100.0	+	0	0	477M	Yang_2015 KJ508563.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_2 16S ribosomal RNA gene, partial sequence	OTU52
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508564.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_3 16S ribosomal RNA gene, partial sequence	OTU1
+H	1	476	100.0	+	0	0	476M	Yang_2015 KJ508560.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_41 16S ribosomal RNA gene, partial sequence	OTU2
+H	1	476	99.8	+	0	0	476M	Yang_2015 KJ508561.1 Uncultured anaerobic ammonium-oxidizing bacterium clone JX_44 16S ribosomal RNA gene, partial sequence	OTU2
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508565.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_4 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508566.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_5 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508567.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_6 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508568.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_7 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508569.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_8 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508571.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_10 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508570.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_9 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508572.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_11 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508574.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_13 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	97.9	+	0	0	470M7D	Yang_2015 KJ508575.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_14 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508576.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_15 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508577.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_16 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508578.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_17 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508579.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_18 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508580.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_19 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508581.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_20 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508582.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_21 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508585.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_24 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508584.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_23 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	97.9	+	0	0	470M7D	Yang_2015 KJ508583.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_22 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508586.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_25 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508587.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_27 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	477	*	.	*	*	*	Yang_2015 KJ508573.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_12 16S ribosomal RNA gene, partial sequence	*
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508588.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_28 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508589.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_29 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508590.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_30 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508591.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_31 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508592.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_32 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508593.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_33 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508594.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_34 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508595.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_36 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508596.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_37 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508598.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_39 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508599.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_41 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508597.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_38 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508600.1 Uncultured anaerobic ammonium-oxidizing bacterium clone HB_42 16S ribosomal RNA gene, partial sequence	OTU1
+H	3	477	97.4	+	0	0	470M7D	Yang_2015 KJ508601.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_1 16S ribosomal RNA gene, partial sequence	OTU4
+H	4	477	98.5	+	0	0	I477M	Yang_2015 KJ508602.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_2 16S ribosomal RNA gene, partial sequence	OTU5
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508603.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_3 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508605.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_5 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508608.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_8 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	477	*	.	*	*	*	Yang_2015 KJ508604.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_4 16S ribosomal RNA gene, partial sequence	*
+N	*	477	*	.	*	*	*	Yang_2015 KJ508606.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_7 16S ribosomal RNA gene, partial sequence	*
+H	3	477	98.9	+	0	0	470M7D	Yang_2015 KJ508609.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_9 16S ribosomal RNA gene, partial sequence	OTU4
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508607.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_6 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508610.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_10 16S ribosomal RNA gene, partial sequence	OTU1
+H	3	477	99.4	+	0	0	470M7D	Yang_2015 KJ508611.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_11 16S ribosomal RNA gene, partial sequence	OTU4
+H	4	477	99.4	+	0	0	I477M	Yang_2015 KJ508614.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_14 16S ribosomal RNA gene, partial sequence	OTU5
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508615.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_15 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508613.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_13 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	477	*	.	*	*	*	Yang_2015 KJ508612.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_12 16S ribosomal RNA gene, partial sequence	*
+H	0	477	99.4	+	0	0	470M7D	Yang_2015 KJ508616.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_17 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508617.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_18 16S ribosomal RNA gene, partial sequence	OTU1
+H	4	477	99.6	+	0	0	I477M	Yang_2015 KJ508618.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_19 16S ribosomal RNA gene, partial sequence	OTU5
+H	3	477	99.1	+	0	0	470M7D	Yang_2015 KJ508620.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_22 16S ribosomal RNA gene, partial sequence	OTU4
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508623.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_26 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	477	*	.	*	*	*	Yang_2015 KJ508619.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_21 16S ribosomal RNA gene, partial sequence	*
+H	4	477	99.4	+	0	0	I477M	Yang_2015 KJ508624.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_27 16S ribosomal RNA gene, partial sequence	OTU5
+H	4	477	99.4	+	0	0	I477M	Yang_2015 KJ508625.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_28 16S ribosomal RNA gene, partial sequence	OTU5
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508626.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_29 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	477	*	.	*	*	*	Yang_2015 KJ508621.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_23 16S ribosomal RNA gene, partial sequence	*
+H	4	477	99.4	+	0	0	I477M	Yang_2015 KJ508627.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_30 16S ribosomal RNA gene, partial sequence	OTU5
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508628.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_31 16S ribosomal RNA gene, partial sequence	OTU1
+H	3	477	98.7	+	0	0	470M7D	Yang_2015 KJ508629.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_32 16S ribosomal RNA gene, partial sequence	OTU4
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508630.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_33 16S ribosomal RNA gene, partial sequence	OTU1
+H	3	477	99.4	+	0	0	470M7D	Yang_2015 KJ508631.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_34 16S ribosomal RNA gene, partial sequence	OTU4
+H	4	477	99.6	+	0	0	I477M	Yang_2015 KJ508632.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_35 16S ribosomal RNA gene, partial sequence	OTU5
+N	*	477	*	.	*	*	*	Yang_2015 KJ508622.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_24 16S ribosomal RNA gene, partial sequence	*
+H	3	477	98.5	+	0	0	470M7D	Yang_2015 KJ508635.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_38 16S ribosomal RNA gene, partial sequence	OTU4
+H	3	477	98.7	+	0	0	470M7D	Yang_2015 KJ508636.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_39 16S ribosomal RNA gene, partial sequence	OTU4
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508637.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_40 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	477	*	.	*	*	*	Yang_2015 KJ508634.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_37 16S ribosomal RNA gene, partial sequence	*
+H	3	477	98.1	+	0	0	470M7D	Yang_2015 KJ508638.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_41 16S ribosomal RNA gene, partial sequence	OTU4
+H	0	477	98.1	+	0	0	470M7D	Yang_2015 KJ508639.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_42 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	477	*	.	*	*	*	Yang_2015 KJ508633.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_36 16S ribosomal RNA gene, partial sequence	*
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508641.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_1 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508642.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_2 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508643.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_3 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508644.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_4 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508645.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_5 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508646.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_6 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	477	*	.	*	*	*	Yang_2015 KJ508640.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GZ_43 16S ribosomal RNA gene, partial sequence	*
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508647.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_7 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508648.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_8 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508649.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_9 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508650.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_10 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508652.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_12 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508651.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_11 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508653.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_13 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508654.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_14 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.3	+	0	0	470M7D	Yang_2015 KJ508656.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_16 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508655.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_15 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508657.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_17 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508658.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_18 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508659.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_19 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508662.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_23 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508661.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_22 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508663.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_24 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508660.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_20 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508664.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_25 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508665.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_26 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508667.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_28 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508666.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_27 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508669.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_30 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508671.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_32 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508670.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_31 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508672.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_33 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508673.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_34 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508674.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_35 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508675.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_36 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.5	+	0	0	470M7D	Yang_2015 KJ508676.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_37 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	477	*	.	*	*	*	Yang_2015 KJ508668.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_29 16S ribosomal RNA gene, partial sequence	*
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508677.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_38 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.7	+	0	0	470M7D	Yang_2015 KJ508678.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_39 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	477	98.9	+	0	0	470M7D	Yang_2015 KJ508679.1 Uncultured anaerobic ammonium-oxidizing bacterium clone GL_40 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	472	*	.	*	*	*	Yang_2015 KJ508680.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_3 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508683.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_9 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508682.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_5 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508686.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_13 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508681.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_4 16S ribosomal RNA gene, partial sequence	*
+H	81	472	100.0	+	0	0	472M	Yang_2015 KJ508688.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_15 16S ribosomal RNA gene, partial sequence	OTU82
+H	23	472	98.7	+	0	0	472M	Yang_2015 KJ508685.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_12 16S ribosomal RNA gene, partial sequence	OTU24
+H	23	472	97.9	+	0	0	472M	Yang_2015 KJ508684.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_11 16S ribosomal RNA gene, partial sequence	OTU24
+N	*	472	*	.	*	*	*	Yang_2015 KJ508691.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_20 16S ribosomal RNA gene, partial sequence	*
+H	21	471	100.0	+	0	0	471M	Yang_2015 KJ508692.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_21 16S ribosomal RNA gene, partial sequence	OTU22
+N	*	472	*	.	*	*	*	Yang_2015 KJ508690.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_18 16S ribosomal RNA gene, partial sequence	*
+H	80	472	97.0	+	0	0	388MI84M	Yang_2015 KJ508693.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_22 16S ribosomal RNA gene, partial sequence	OTU81
+H	13	472	99.8	+	0	0	472M	Yang_2015 KJ508694.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_23 16S ribosomal RNA gene, partial sequence	OTU14
+H	23	472	98.1	+	0	0	472M	Yang_2015 KJ508687.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_14 16S ribosomal RNA gene, partial sequence	OTU24
+H	13	472	100.0	+	0	0	472M	Yang_2015 KJ508697.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_26 16S ribosomal RNA gene, partial sequence	OTU14
+H	13	472	97.7	+	0	0	472M	Yang_2015 KJ508696.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_25 16S ribosomal RNA gene, partial sequence	OTU14
+N	*	472	*	.	*	*	*	Yang_2015 KJ508689.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_17 16S ribosomal RNA gene, partial sequence	*
+H	21	471	98.1	+	0	0	471M	Yang_2015 KJ508698.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_27 16S ribosomal RNA gene, partial sequence	OTU22
+H	13	472	100.0	+	0	0	472M	Yang_2015 KJ508701.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_33 16S ribosomal RNA gene, partial sequence	OTU14
+H	13	472	99.6	+	0	0	472M	Yang_2015 KJ508702.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_34 16S ribosomal RNA gene, partial sequence	OTU14
+H	79	472	100.0	+	0	0	472M	Yang_2015 KJ508700.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_31 16S ribosomal RNA gene, partial sequence	OTU80
+N	*	472	*	.	*	*	*	Yang_2015 KJ508699.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_28 16S ribosomal RNA gene, partial sequence	*
+H	23	472	98.7	+	0	0	472M	Yang_2015 KJ508695.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_24 16S ribosomal RNA gene, partial sequence	OTU24
+H	23	472	100.0	+	0	0	472M	Yang_2015 KJ508705.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_38 16S ribosomal RNA gene, partial sequence	OTU24
+H	80	473	100.0	+	0	0	473M	Yang_2015 KJ508707.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_40 16S ribosomal RNA gene, partial sequence	OTU81
+N	*	472	*	.	*	*	*	Yang_2015 KJ508706.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_39 16S ribosomal RNA gene, partial sequence	*
+H	23	472	98.5	+	0	0	472M	Yang_2015 KJ508703.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_35 16S ribosomal RNA gene, partial sequence	OTU24
+N	*	472	*	.	*	*	*	Yang_2015 KJ508708.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_41 16S ribosomal RNA gene, partial sequence	*
+H	7	472	97.7	+	0	0	472M	Yang_2015 KJ508711.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_32 16S ribosomal RNA gene, partial sequence	OTU8
+H	7	472	100.0	+	0	0	472M	Yang_2015 KJ508712.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_1 16S ribosomal RNA gene, partial sequence	OTU8
+N	*	471	*	.	*	*	*	Yang_2015 KJ508710.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_24 16S ribosomal RNA gene, partial sequence	*
+H	56	470	100.0	+	0	0	470M	Yang_2015 KJ508709.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_10 16S ribosomal RNA gene, partial sequence	OTU57
+H	7	472	99.6	+	0	0	472M	Yang_2015 KJ508715.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_17 16S ribosomal RNA gene, partial sequence	OTU8
+H	57	477	100.0	+	0	0	477M	Yang_2015 KJ508714.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_15 16S ribosomal RNA gene, partial sequence	OTU58
+N	*	477	*	.	*	*	*	Yang_2015 KJ508713.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_12 16S ribosomal RNA gene, partial sequence	*
+H	7	472	99.4	+	0	0	472M	Yang_2015 KJ508716.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_22 16S ribosomal RNA gene, partial sequence	OTU8
+H	7	472	99.8	+	0	0	472M	Yang_2015 KJ508717.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_26 16S ribosomal RNA gene, partial sequence	OTU8
+H	7	472	100.0	+	0	0	472M	Yang_2015 KJ508718.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_35 16S ribosomal RNA gene, partial sequence	OTU8
+H	7	472	98.5	+	0	0	472M	Yang_2015 KJ508720.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_39 16S ribosomal RNA gene, partial sequence	OTU8
+H	7	472	100.0	+	0	0	472M	Yang_2015 KJ508719.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_37 16S ribosomal RNA gene, partial sequence	OTU8
+H	7	472	99.8	+	0	0	472M	Yang_2015 KJ508721.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_41 16S ribosomal RNA gene, partial sequence	OTU8
+H	7	472	99.4	+	0	0	472M	Yang_2015 KJ508722.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FST_44 16S ribosomal RNA gene, partial sequence	OTU8
+H	22	472	100.0	+	0	0	472M	Yang_2015 KJ508723.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_1 16S ribosomal RNA gene, partial sequence	OTU23
+H	23	472	97.9	+	0	0	472M	Yang_2015 KJ508704.1 Uncultured anaerobic ammonium-oxidizing bacterium clone FZ_37 16S ribosomal RNA gene, partial sequence	OTU24
+H	28	476	100.0	+	0	0	476M	Yang_2015 KJ508726.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_14 16S ribosomal RNA gene, partial sequence	OTU29
+H	29	475	100.0	+	0	0	475M	Yang_2015 KJ508725.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_8 16S ribosomal RNA gene, partial sequence	OTU30
+H	27	471	100.0	+	0	0	471M	Yang_2015 KJ508728.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_22 16S ribosomal RNA gene, partial sequence	OTU28
+N	*	476	*	.	*	*	*	Yang_2015 KJ508730.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_24 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508724.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_7 16S ribosomal RNA gene, partial sequence	*
+H	32	472	100.0	+	0	0	472M	Yang_2015 KJ508731.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_25 16S ribosomal RNA gene, partial sequence	OTU33
+H	102	474	100.0	+	0	0	474M	Yang_2015 KJ508732.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_26 16S ribosomal RNA gene, partial sequence	OTU103
+N	*	471	*	.	*	*	*	Yang_2015 KJ508729.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_23 16S ribosomal RNA gene, partial sequence	*
+N	*	470	*	.	*	*	*	Yang_2015 KJ508727.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_21 16S ribosomal RNA gene, partial sequence	*
+H	31	472	100.0	+	0	0	472M	Yang_2015 KJ508736.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_41 16S ribosomal RNA gene, partial sequence	OTU32
+H	30	475	100.0	+	0	0	475M	Yang_2015 KJ508737.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_42 16S ribosomal RNA gene, partial sequence	OTU31
+N	*	472	*	.	*	*	*	Yang_2015 KJ508735.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_40 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508734.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_35 16S ribosomal RNA gene, partial sequence	*
+H	55	471	100.0	+	0	0	471M	Yang_2015 KJ508739.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_13 16S ribosomal RNA gene, partial sequence	OTU56
+N	*	471	*	.	*	*	*	Yang_2015 KJ508733.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CS_34 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508738.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_11 16S ribosomal RNA gene, partial sequence	*
+N	*	472	*	.	*	*	*	Yang_2015 KJ508742.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_30 16S ribosomal RNA gene, partial sequence	*
+H	25	472	100.0	+	0	0	472M	Yang_2015 KJ508743.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_31 16S ribosomal RNA gene, partial sequence	OTU26
+N	*	471	*	.	*	*	*	Yang_2015 KJ508740.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_14 16S ribosomal RNA gene, partial sequence	*
+H	11	472	100.0	+	0	0	472M	Yang_2015 KJ508745.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_33 16S ribosomal RNA gene, partial sequence	OTU12
+H	26	472	100.0	+	0	0	472M	Yang_2015 KJ508741.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_21 16S ribosomal RNA gene, partial sequence	OTU27
+H	26	472	98.9	+	0	0	472M	Yang_2015 KJ508746.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_34 16S ribosomal RNA gene, partial sequence	OTU27
+H	11	472	100.0	+	0	0	472M	Yang_2015 KJ508747.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_35 16S ribosomal RNA gene, partial sequence	OTU12
+H	11	472	98.7	+	0	0	472M	Yang_2015 KJ508750.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_3 16S ribosomal RNA gene, partial sequence	OTU12
+N	*	472	*	.	*	*	*	Yang_2015 KJ508744.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_32 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.0	+	0	0	D470M7D	Shen_2015 KM887957.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CB-2 16S ribosomal RNA gene, partial sequence	OTU1
+H	24	476	100.0	+	0	0	476M	Yang_2015 KJ508749.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_44 16S ribosomal RNA gene, partial sequence	OTU25
+H	5	478	99.8	+	0	0	478M	Shen_2015 KM887958.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CB-6 16S ribosomal RNA gene, partial sequence	OTU6
+H	0	478	97.0	+	0	0	D470M7D	Shen_2015 KM887959.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CB-8 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.0	+	0	0	D470M7D	Shen_2015 KM887960.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CB-12 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.0	+	0	0	D470M7D	Shen_2015 KM887961.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CB-24 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.7	+	0	0	D470M7D	Shen_2015 KM887962.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CR-1 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	98.1	+	0	0	D470M7D	Shen_2015 KM887965.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CR-10 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.0	+	0	0	D470M7D	Shen_2015 KM887963.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CR-6 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.0	+	0	0	D470M7D	Shen_2015 KM887966.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CR-11 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	98.7	+	0	0	D470M7D	Shen_2015 KM887968.1 Uncultured anaerobic ammonium-oxidizing bacterium clone EP-3 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2015 KM887967.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CR-15 16S ribosomal RNA gene, partial sequence	*
+N	*	478	*	.	*	*	*	Shen_2015 KM887964.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CR-9 16S ribosomal RNA gene, partial sequence	*
+H	5	478	99.8	+	0	0	478M	Shen_2015 KM887970.1 Uncultured anaerobic ammonium-oxidizing bacterium clone EP-15 16S ribosomal RNA gene, partial sequence	OTU6
+H	0	478	98.1	+	0	0	D470M7D	Shen_2015 KM887972.1 Uncultured anaerobic ammonium-oxidizing bacterium clone EP-23 16S ribosomal RNA gene, partial sequence	OTU1
+H	5	478	99.6	+	0	0	478M	Shen_2015 KM887973.1 Uncultured anaerobic ammonium-oxidizing bacterium clone PT-1 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	100.0	+	0	0	478M	Shen_2015 KM887974.1 Uncultured anaerobic ammonium-oxidizing bacterium clone PT-3 16S ribosomal RNA gene, partial sequence	OTU6
+H	12	477	100.0	+	0	0	477M	Shen_2015 KM887969.1 Uncultured anaerobic ammonium-oxidizing bacterium clone EP-12 16S ribosomal RNA gene, partial sequence	OTU13
+N	*	472	*	.	*	*	*	Yang_2015 KJ508748.1 Uncultured anaerobic ammonium-oxidizing bacterium clone AH_36 16S ribosomal RNA gene, partial sequence	*
+H	5	478	99.8	+	0	0	478M	Shen_2015 KM887975.1 Uncultured anaerobic ammonium-oxidizing bacterium clone PT-4 16S ribosomal RNA gene, partial sequence	OTU6
+H	12	477	99.8	+	0	0	477M	Shen_2015 KM887971.1 Uncultured anaerobic ammonium-oxidizing bacterium clone EP-20 16S ribosomal RNA gene, partial sequence	OTU13
+H	5	478	98.1	+	0	0	478M	Shen_2015 KM887976.1 Uncultured anaerobic ammonium-oxidizing bacterium clone PT-5 16S ribosomal RNA gene, partial sequence	OTU6
+H	0	478	97.9	+	0	0	D470M7D	Shen_2015 KM887977.1 Uncultured anaerobic ammonium-oxidizing bacterium clone PT-11 16S ribosomal RNA gene, partial sequence	OTU1
+H	4	478	98.3	+	0	0	478M	Shen_2015 KM887978.1 Uncultured anaerobic ammonium-oxidizing bacterium clone PT-14 16S ribosomal RNA gene, partial sequence	OTU5
+H	10	477	99.4	+	0	0	14D462MD	Shen_2015 KM887980.1 Uncultured anaerobic ammonium-oxidizing bacterium clone PT-18 16S ribosomal RNA gene, partial sequence	OTU11
+H	5	478	99.6	+	0	0	478M	Shen_2015 KM887982.1 Uncultured anaerobic ammonium-oxidizing bacterium clone PT-21 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	100.0	+	0	0	478M	Shen_2015 KM887981.1 Uncultured anaerobic ammonium-oxidizing bacterium clone PT-19 16S ribosomal RNA gene, partial sequence	OTU6
+H	4	478	98.1	+	0	0	478M	Shen_2015 KM887979.1 Uncultured anaerobic ammonium-oxidizing bacterium clone PT-15 16S ribosomal RNA gene, partial sequence	OTU5
+H	0	478	99.1	+	0	0	D470M7D	Shen_2015 KM887983.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CF-1 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	99.1	+	0	0	D470M7D	Shen_2015 KM887984.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CF-3 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	99.1	+	0	0	D470M7D	Shen_2015 KM887985.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CF-9 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	98.9	+	0	0	D470M7D	Shen_2015 KM887986.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CF-15 16S ribosomal RNA gene, partial sequence	OTU1
+H	5	478	100.0	+	0	0	478M	Shen_2016 KT162107.1 Uncultured Planctomycetales bacterium clone WA-1 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.4	+	0	0	478M	Shen_2016 KT162108.1 Uncultured Planctomycetales bacterium clone WA-3 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Shen_2016 KT162110.1 Uncultured Planctomycetales bacterium clone WA-9 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Shen_2016 KT162109.1 Uncultured Planctomycetales bacterium clone WA-8 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.4	+	0	0	478M	Shen_2016 KT162111.1 Uncultured Planctomycetales bacterium clone WA-15 16S ribosomal RNA gene, partial sequence	OTU6
+N	*	478	*	.	*	*	*	Shen_2015 KM887987.1 Uncultured anaerobic ammonium-oxidizing bacterium clone CF-20 16S ribosomal RNA gene, partial sequence	*
+H	0	478	98.5	+	0	0	D470M7D	Shen_2016 KT162112.1 Uncultured Planctomycetales bacterium clone WA-18 16S ribosomal RNA gene, partial sequence	OTU1
+H	4	478	97.3	+	0	0	478M	Shen_2016 KT162114.1 Uncultured Planctomycetales bacterium clone WB-9 16S ribosomal RNA gene, partial sequence	OTU5
+H	5	478	99.8	+	0	0	478M	Shen_2016 KT162115.1 Uncultured Planctomycetales bacterium clone WB-13 16S ribosomal RNA gene, partial sequence	OTU6
+H	0	478	99.1	+	0	0	D470M7D	Shen_2016 KT162117.1 Uncultured Planctomycetales bacterium clone WB-18 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.7	+	0	0	D470M7D	Shen_2016 KT162118.1 Uncultured Planctomycetales bacterium clone WB-19 16S ribosomal RNA gene, partial sequence	OTU1
+H	5	478	99.6	+	0	0	478M	Shen_2016 KT162119.1 Uncultured Planctomycetales bacterium clone WC-2 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Shen_2016 KT162120.1 Uncultured Planctomycetales bacterium clone WC-3 16S ribosomal RNA gene, partial sequence	OTU6
+N	*	478	*	.	*	*	*	Shen_2016 KT162113.1 Uncultured Planctomycetales bacterium clone WA-20 16S ribosomal RNA gene, partial sequence	*
+H	5	478	99.2	+	0	0	478M	Shen_2016 KT162116.1 Uncultured Planctomycetales bacterium clone WB-14 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Shen_2016 KT162121.1 Uncultured Planctomycetales bacterium clone WC-20 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.2	+	0	0	478M	Shen_2016 KT162123.1 Uncultured Planctomycetales bacterium clone WD-1 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Shen_2016 KT162122.1 Uncultured Planctomycetales bacterium clone WC-21 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.8	+	0	0	478M	Shen_2016 KT162124.1 Uncultured Planctomycetales bacterium clone WD-13 16S ribosomal RNA gene, partial sequence	OTU6
+H	5	478	99.6	+	0	0	478M	Shen_2016 KT162125.1 Uncultured Planctomycetales bacterium clone WD-17 16S ribosomal RNA gene, partial sequence	OTU6
+H	0	478	99.1	+	0	0	D470M7D	Shen_2016 KT162126.1 Uncultured Planctomycetales bacterium clone WE-8 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.4	+	0	0	D470M7D	Shen_2016 KT162128.1 Uncultured Planctomycetales bacterium clone WE-11 16S ribosomal RNA gene, partial sequence	OTU1
+H	82	477	100.0	+	0	0	477M	Shen_2016 KT162127.1 Uncultured Planctomycetales bacterium clone WE-9 16S ribosomal RNA gene, partial sequence	OTU83
+H	0	478	98.7	+	0	0	D470M7D	Shen_2016 KT162130.1 Uncultured Planctomycetales bacterium clone WE-14 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	99.1	+	0	0	D470M7D	Shen_2016 KT162131.1 Uncultured Planctomycetales bacterium clone WE-16 16S ribosomal RNA gene, partial sequence	OTU1
+H	5	478	99.8	+	0	0	478M	Shen_2016 KT162133.1 Uncultured Planctomycetales bacterium clone WF-3 16S ribosomal RNA gene, partial sequence	OTU6
+N	*	478	*	.	*	*	*	Shen_2016 KT162129.1 Uncultured Planctomycetales bacterium clone WE-13 16S ribosomal RNA gene, partial sequence	*
+H	5	478	99.6	+	0	0	478M	Shen_2016 KT162134.1 Uncultured Planctomycetales bacterium clone WF-4 16S ribosomal RNA gene, partial sequence	OTU6
+H	0	478	98.3	+	0	0	D470M7D	Shen_2016 KT162135.1 Uncultured Planctomycetales bacterium clone WE-7 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.7	+	0	0	D470M7D	Shen_2016 KT162136.1 Uncultured Planctomycetales bacterium clone WF-9 16S ribosomal RNA gene, partial sequence	OTU1
+H	3	478	99.6	+	0	0	D470M7D	Shen_2016 KT162137.1 Uncultured Planctomycetales bacterium clone WF-10 16S ribosomal RNA gene, partial sequence	OTU4
+N	*	478	*	.	*	*	*	Shen_2016 KT162132.1 Uncultured Planctomycetales bacterium clone WE-21 16S ribosomal RNA gene, partial sequence	*
+H	0	478	97.2	+	0	0	D470M7D	Shen_2016 KT162140.1 Uncultured Planctomycetales bacterium clone WE-15 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	478	97.7	+	0	0	D470M7D	Shen_2016 KT162139.1 Uncultured Planctomycetales bacterium clone WF-13 16S ribosomal RNA gene, partial sequence	OTU1
+N	*	478	*	.	*	*	*	Shen_2016 KT162138.1 Uncultured Planctomycetales bacterium clone WF-12 16S ribosomal RNA gene, partial sequence	*
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172629.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-1	OTU1
+H	0	470	98.5	+	0	0	470M	Sato_2012 JN172630.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-2	OTU1
+H	0	470	98.7	+	0	0	470M	Sato_2012 JN172631.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-3	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172632.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-4	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172634.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-6	OTU1
+H	0	470	99.6	+	0	0	470M	Sato_2012 JN172635.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-7	OTU1
+H	8	470	100.0	+	0	0	470M	Sato_2012 JN172637.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-10	OTU9
+H	0	470	99.6	+	0	0	470M	Sato_2012 JN172639.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-12	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172638.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-11	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172640.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-13	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172641.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-14	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172642.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-15	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172643.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-16	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172644.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-17	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172646.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-19	OTU1
+N	*	470	*	.	*	*	*	Sato_2012 JN172645.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-18	*
+N	*	470	*	.	*	*	*	Sato_2012 JN172636.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-9	*
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172647.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-20	OTU1
+H	3	470	97.2	+	0	0	470M	Sato_2012 JN172633.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-5	OTU4
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172648.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-21	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172649.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-22	OTU1
+H	8	470	100.0	+	0	0	470M	Sato_2012 JN172651.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-27	OTU9
+H	8	470	100.0	+	0	0	470M	Sato_2012 JN172652.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-30	OTU9
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172653.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-33	OTU1
+H	8	470	99.6	+	0	0	470M	Sato_2012 JN172654.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-34	OTU9
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172655.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-35	OTU1
+N	*	470	*	.	*	*	*	Sato_2012 JN172650.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-24	*
+H	4	470	98.3	+	0	0	I470M7I	Sato_2012 JN172658.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-43	OTU5
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172656.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-39	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172659.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-44	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172657.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-42	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172660.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-45	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172661.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-47	OTU1
+H	3	470	99.8	+	0	0	470M	Sato_2012 JN172664.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-2	OTU4
+H	3	470	100.0	+	0	0	470M	Sato_2012 JN172665.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-4	OTU4
+H	3	470	99.6	+	0	0	470M	Sato_2012 JN172667.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-6	OTU4
+H	0	470	97.2	+	0	0	470M	Sato_2012 JN172663.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-1	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172666.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-5	OTU1
+H	0	470	99.4	+	0	0	470M	Sato_2012 JN172669.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-8	OTU1
+N	*	470	*	.	*	*	*	Sato_2012 JN172670.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-9	*
+H	14	470	100.0	+	0	0	470M	Sato_2012 JN172668.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-7	OTU15
+H	15	470	98.9	+	0	0	470M8I	Sato_2012 JN172673.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-12	OTU16
+H	0	470	99.6	+	0	0	470M	Sato_2012 JN172672.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-11	OTU1
+H	0	470	97.2	+	0	0	470M	Sato_2012 JN172662.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx07Y-48	OTU1
+H	3	470	99.8	+	0	0	470M	Sato_2012 JN172675.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-14	OTU4
+H	3	470	100.0	+	0	0	470M	Sato_2012 JN172676.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-15	OTU4
+N	*	470	*	.	*	*	*	Sato_2012 JN172671.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-10	*
+H	3	470	99.6	+	0	0	470M	Sato_2012 JN172679.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-19	OTU4
+H	0	470	99.6	+	0	0	470M	Sato_2012 JN172677.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-16	OTU1
+H	14	470	100.0	+	0	0	470M	Sato_2012 JN172674.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-13	OTU15
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172678.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-17	OTU1
+H	4	470	98.7	+	0	0	I470M7I	Sato_2012 JN172680.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-20	OTU5
+H	4	470	99.4	+	0	0	I470M7I	Sato_2012 JN172683.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-23	OTU5
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172682.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-22	OTU1
+H	4	470	99.4	+	0	0	I470M7I	Sato_2012 JN172685.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-25	OTU5
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172684.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-24	OTU1
+H	3	470	100.0	+	0	0	470M	Sato_2012 JN172687.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-27	OTU4
+H	3	470	100.0	+	0	0	470M	Sato_2012 JN172688.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-28	OTU4
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172686.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-26	OTU1
+H	3	470	100.0	+	0	0	470M	Sato_2012 JN172689.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-29	OTU4
+H	4	470	99.6	+	0	0	I470M7I	Sato_2012 JN172690.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-30	OTU5
+H	3	470	100.0	+	0	0	470M	Sato_2012 JN172693.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-34	OTU4
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172691.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-32	OTU1
+H	0	470	99.6	+	0	0	470M	Sato_2012 JN172692.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-33	OTU1
+H	3	470	99.6	+	0	0	470M	Sato_2012 JN172695.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-36	OTU4
+H	3	470	99.8	+	0	0	470M	Sato_2012 JN172694.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-35	OTU4
+H	0	470	98.5	+	0	0	470M	Sato_2012 JN172681.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-21	OTU1
+H	0	470	99.8	+	0	0	470M	Sato_2012 JN172696.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-37	OTU1
+H	4	470	99.4	+	0	0	I470M7I	Sato_2012 JN172699.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-41	OTU5
+H	66	470	97.9	+	0	0	18D437M15D	Sato_2012 JN172697.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-38	OTU67
+H	0	470	97.2	+	0	0	470M	Sato_2012 JN172698.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-40	OTU1
+H	0	470	99.4	+	0	0	470M	Sato_2012 JN172702.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-44	OTU1
+H	0	470	99.8	+	0	0	470M	Sato_2012 JN172703.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-46	OTU1
+H	3	470	99.8	+	0	0	470M	Sato_2012 JN172704.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-47	OTU4
+H	4	470	99.4	+	0	0	I470M7I	Sato_2012 JN172705.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-48	OTU5
+N	*	470	*	.	*	*	*	Sato_2012 JN172700.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-42	*
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172706.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-51	OTU1
+H	0	470	99.4	+	0	0	470M	Sato_2012 JN172708.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-53	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172710.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-55	OTU1
+H	4	470	99.4	+	0	0	I470M7I	Sato_2012 JN172711.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-56	OTU5
+H	0	470	97.2	+	0	0	470M	Sato_2012 JN172707.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-52	OTU1
+H	4	470	98.3	+	0	0	I470M7I	Sato_2012 JN172701.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-43	OTU5
+H	0	470	99.8	+	0	0	470M	Sato_2012 JN172712.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-58	OTU1
+H	0	470	97.2	+	0	0	470M	Sato_2012 JN172713.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-59	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172714.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-60	OTU1
+H	4	470	99.1	+	0	0	I470M7I	Sato_2012 JN172715.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-61	OTU5
+H	4	470	99.4	+	0	0	I470M7I	Sato_2012 JN172716.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-62	OTU5
+H	3	470	97.2	+	0	0	470M	Sato_2012 JN172709.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-54	OTU4
+H	0	470	99.6	+	0	0	470M	Sato_2012 JN172717.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-63	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172718.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-64	OTU1
+H	3	470	99.4	+	0	0	470M	Sato_2012 JN172721.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-67	OTU4
+H	0	470	99.8	+	0	0	470M	Sato_2012 JN172719.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-65	OTU1
+H	4	470	98.5	+	0	0	I470M7I	Sato_2012 JN172722.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-68	OTU5
+H	0	470	97.2	+	0	0	470M	Sato_2012 JN172720.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-66	OTU1
+H	4	470	99.1	+	0	0	I470M7I	Sato_2012 JN172724.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-70	OTU5
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172723.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-69	OTU1
+H	3	470	99.6	+	0	0	470M	Sato_2012 JN172728.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-75	OTU4
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172726.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-72	OTU1
+H	4	470	99.1	+	0	0	I470M7I	Sato_2012 JN172727.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-73	OTU5
+H	4	470	99.1	+	0	0	I470M7I	Sato_2012 JN172730.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-77	OTU5
+H	14	470	99.8	+	0	0	470M	Sato_2012 JN172725.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-71	OTU15
+H	66	470	98.4	+	0	0	18D437M15D	Sato_2012 JN172729.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-76	OTU67
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172731.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-78	OTU1
+H	0	469	97.0	+	0	0	87MI382M	Sato_2012 JN172732.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-79	OTU1
+H	0	470	99.8	+	0	0	470M	Sato_2012 JN172733.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-80	OTU1
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172734.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-81	OTU1
+H	3	470	99.6	+	0	0	470M	Sato_2012 JN172736.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-83	OTU4
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172735.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-82	OTU1
+H	0	470	99.8	+	0	0	470M	Sato_2012 JN172738.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-87	OTU1
+H	0	470	97.2	+	0	0	470M	Sato_2012 JN172737.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-84	OTU1
+H	0	470	99.6	+	0	0	470M	Sato_2012 JN172739.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-88	OTU1
+H	4	470	99.1	+	0	0	I470M7I	Sato_2012 JN172741.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-91	OTU5
+H	4	470	99.4	+	0	0	I470M7I	Sato_2012 JN172743.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-93	OTU5
+H	66	470	98.2	+	0	0	18D437M15D	Sato_2012 JN172740.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-90	OTU67
+H	3	470	100.0	+	0	0	470M	Sato_2012 JN172744.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-94	OTU4
+H	4	470	99.4	+	0	0	I470M7I	Sato_2012 JN172745.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-95	OTU5
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172742.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-92	OTU1
+H	3	470	100.0	+	0	0	470M	Sato_2012 JN172748.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-98	OTU4
+H	0	470	100.0	+	0	0	470M	Sato_2012 JN172746.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-96	OTU1
+H	0	249	98.8	+	0	0	69I249M152I	Naeher_2015 KJ701283.1 Uncultured bacterium clone SP16S33 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	470	99.6	+	0	0	470M	Sato_2012 JN172747.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: amx08Y-97	OTU1
+H	0	249	98.8	+	0	0	69I249M152I	Naeher_2015 KJ701284.1 Uncultured bacterium clone S2016S 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	249	98.8	+	0	0	69I249M152I	Naeher_2015 KJ701285.1 Uncultured bacterium clone SP16S30 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	249	97.6	+	0	0	69I249M152I	Naeher_2015 KJ701286.1 Uncultured bacterium clone SP16S15 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	249	97.2	+	0	0	69I249M152I	Naeher_2015 KJ701287.1 Uncultured bacterium clone SS1916S 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	249	98.4	+	0	0	69I249M152I	Naeher_2015 KJ701288.1 Uncultured bacterium clone SP16S23 16S ribosomal RNA gene, partial sequence	OTU1
+H	0	249	98.0	+	0	0	69I249M152I	Naeher_2015 KJ701289.1 Uncultured bacterium clone SS1816S 16S ribosomal RNA gene, partial sequence	OTU1

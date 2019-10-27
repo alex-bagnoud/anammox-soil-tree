@@ -1,0 +1,113 @@
+OTU38	D_0__Bacteria;D_1__BRC1;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	1
+OTU39	Unassigned	1.00	1
+OTU36	D_0__Bacteria;D_1__BRC1;D_2__uncultured soil bacterium PBS-III-4;D_3__uncultured soil bacterium PBS-III-4;D_4__uncultured soil bacterium PBS-III-4;D_5__uncultured soil bacterium PBS-III-4;D_6__uncultured soil bacterium PBS-III-4	1.00	1
+OTU37	D_0__Bacteria;D_1__BRC1;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	2
+OTU34	D_0__Bacteria;D_1__Proteobacteria;D_2__Betaproteobacteria;D_3__Nitrosomonadales;D_4__Nitrosomonadaceae;D_5__Nitrosomonas;Ambiguous_taxa	0.67	3
+OTU35	D_0__Bacteria;D_1__BRC1;D_2__uncultured soil bacterium PBS-III-4;D_3__uncultured soil bacterium PBS-III-4;D_4__uncultured soil bacterium PBS-III-4;D_5__uncultured soil bacterium PBS-III-4;D_6__uncultured soil bacterium PBS-III-4	1.00	1
+OTU32	D_0__Bacteria;D_1__BRC1;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU33	D_0__Bacteria;D_1__BRC1;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU30	Unassigned	1.00	1
+OTU31	Unassigned	1.00	1
+OTU83	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Planctomycetales;D_4__Planctomycetaceae;D_5__Planctomyces;D_6__uncultured planctomycete	1.00	1
+OTU82	D_0__Bacteria;D_1__BRC1	1.00	2
+OTU81	Unassigned	1.00	1
+OTU80	Unassigned	1.00	1
+OTU87	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	3
+OTU86	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU85	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Kuenenia	1.00	3
+OTU84	D_0__Bacteria;D_1__Planctomycetes;D_2__Pla4 lineage;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	1
+OTU89	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	3
+OTU88	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Brocadia;Ambiguous_taxa	0.67	3
+OTU14	D_0__Bacteria;D_1__BRC1;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU15	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Asahi BRW2;D_6__uncultured bacterium	0.67	3
+OTU16	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Asahi BRW2;D_6__uncultured bacterium	0.67	3
+OTU17	Unassigned	1.00	1
+OTU10	D_0__Bacteria;D_1__Proteobacteria;D_2__Betaproteobacteria;D_3__Nitrosomonadales;D_4__Nitrosomonadaceae;D_5__Nitrosospira	0.67	3
+OTU11	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Jettenia	0.67	3
+OTU12	D_0__Bacteria;D_1__BRC1;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU13	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Anammoxoglobus	0.67	3
+OTU18	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Brocadia	1.00	3
+OTU19	Unassigned	1.00	1
+OTU98	Unassigned	1.00	1
+OTU99	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU94	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Brocadia	1.00	3
+OTU95	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Brocadia;D_6__uncultured Planctomycetales bacterium	1.00	3
+OTU96	D_0__Bacteria;D_1__Proteobacteria;D_2__Betaproteobacteria;D_3__Methylophilales;D_4__Methylophilaceae;D_5__uncultured;Ambiguous_taxa	0.67	3
+OTU97	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__W4	1.00	3
+OTU90	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	3
+OTU91	D_0__Bacteria;D_1__Omnitrophica	1.00	3
+OTU92	D_0__Bacteria;D_1__Planctomycetes;D_2__BD7-11;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	3
+OTU93	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU61	D_0__Bacteria;D_1__Planctomycetes;D_2__OM190;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	2
+OTU60	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU63	D_0__Bacteria;D_1__BRC1;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	3
+OTU62	D_0__Bacteria;D_1__Planctomycetes;D_2__BD7-11;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	1
+OTU65	Unassigned	1.00	1
+OTU64	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU67	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Asahi BRW2;D_6__uncultured bacterium	0.67	3
+OTU66	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Scalindua;Ambiguous_taxa	0.67	3
+OTU69	D_0__Bacteria;D_1__Planctomycetes;D_2__Pla3 lineage;D_3__uncultured planctomycete;D_4__uncultured planctomycete;D_5__uncultured planctomycete;D_6__uncultured planctomycete	1.00	1
+OTU68	D_0__Bacteria;D_1__Planctomycetes;D_2__Pla3 lineage	1.00	3
+OTU72	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	3
+OTU73	Unassigned	1.00	1
+OTU70	Unassigned	1.00	1
+OTU71	Unassigned	1.00	1
+OTU76	D_0__Bacteria;D_1__BRC1;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	3
+OTU77	D_0__Bacteria;D_1__Planctomycetes;D_2__Pla3 lineage	0.67	3
+OTU74	D_0__Bacteria;D_1__Actinobacteria;D_2__Actinobacteria;D_3__Micrococcales;D_4__Micrococcaceae;D_5__Arthrobacter	0.67	3
+OTU75	Unassigned	1.00	1
+OTU78	D_0__Bacteria;D_1__Planctomycetes;D_2__Pla3 lineage	1.00	3
+OTU79	D_0__Bacteria;D_1__Latescibacteria;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	1
+OTU8	D_0__Bacteria;D_1__BRC1;D_2__uncultured soil bacterium PBS-III-4;D_3__uncultured soil bacterium PBS-III-4;D_4__uncultured soil bacterium PBS-III-4;D_5__uncultured soil bacterium PBS-III-4;D_6__uncultured soil bacterium PBS-III-4	1.00	1
+OTU9	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Kuenenia	0.67	3
+OTU6	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Kuenenia	1.00	3
+OTU7	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Scalindua;Ambiguous_taxa	0.67	3
+OTU4	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Asahi BRW2;D_6__uncultured bacterium	0.67	3
+OTU5	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Asahi BRW2;D_6__uncultured bacterium	0.67	3
+OTU2	Unassigned	1.00	1
+OTU3	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Scalindua	1.00	3
+OTU1	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Brocadia	1.00	3
+OTU49	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Scalindua	1.00	3
+OTU48	Unassigned	1.00	1
+OTU47	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Brocadia	1.00	3
+OTU46	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	1
+OTU45	D_0__Bacteria;D_1__BRC1;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU44	D_0__Bacteria;D_1__Planctomycetes;D_2__BD7-11;D_3__uncultured Planctomycetales bacterium;D_4__uncultured Planctomycetales bacterium;D_5__uncultured Planctomycetales bacterium;D_6__uncultured Planctomycetales bacterium	1.00	1
+OTU43	Unassigned	1.00	1
+OTU42	D_0__Bacteria;D_1__Planctomycetes;D_2__Pla3 lineage;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU41	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU40	Unassigned	1.00	1
+OTU112	D_0__Bacteria;D_1__Planctomycetes;D_2__Pla4 lineage;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	3
+OTU113	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Scalindua	1.00	3
+OTU110	Unassigned	1.00	1
+OTU111	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Scalindua;D_6__uncultured planctomycete	1.00	3
+OTU58	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	3
+OTU59	D_0__Bacteria;D_1__Proteobacteria;D_2__Betaproteobacteria;D_3__Nitrosomonadales;D_4__Nitrosomonadaceae;D_5__Nitrosomonas;Ambiguous_taxa	0.67	3
+OTU50	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Scalindua	1.00	3
+OTU51	Unassigned	1.00	1
+OTU52	D_0__Bacteria;D_1__Planctomycetes;D_2__BD7-11;Ambiguous_taxa;Ambiguous_taxa;Ambiguous_taxa;Ambiguous_taxa	1.00	1
+OTU53	D_0__Bacteria;D_1__BRC1;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	0.67	3
+OTU54	Unassigned	1.00	1
+OTU55	Unassigned	1.00	1
+OTU56	Unassigned	1.00	1
+OTU57	Unassigned	1.00	1
+OTU105	D_0__Bacteria;D_1__Omnitrophica;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	3
+OTU104	Unassigned	1.00	1
+OTU107	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Kuenenia	1.00	3
+OTU106	D_0__Bacteria;D_1__Planctomycetes;D_2__Planctomycetacia;D_3__Brocadiales;D_4__Brocadiaceae;D_5__Candidatus Brocadia	1.00	2
+OTU101	D_0__Bacteria;D_1__Omnitrophica	1.00	3
+OTU100	Unassigned	1.00	1
+OTU103	Unassigned	1.00	1
+OTU102	D_0__Bacteria;D_1__Omnitrophica	1.00	2
+OTU109	Unassigned	1.00	1
+OTU108	Unassigned	1.00	1
+OTU29	Unassigned	1.00	1
+OTU28	Unassigned	1.00	1
+OTU25	D_0__Bacteria;D_1__Omnitrophica	1.00	2
+OTU24	D_0__Bacteria;D_1__BRC1	1.00	3
+OTU27	D_0__Bacteria;D_1__BRC1	1.00	2
+OTU26	D_0__Bacteria;D_1__BRC1;D_2__uncultured bacterium;D_3__uncultured bacterium;D_4__uncultured bacterium;D_5__uncultured bacterium;D_6__uncultured bacterium	1.00	2
+OTU21	D_0__Bacteria;D_1__BRC1	1.00	3
+OTU20	Unassigned	1.00	1
+OTU23	D_0__Bacteria;D_1__BRC1;D_2__uncultured soil bacterium;D_3__uncultured soil bacterium;D_4__uncultured soil bacterium;D_5__uncultured soil bacterium;D_6__uncultured soil bacterium	1.00	1
+OTU22	Unassigned	1.00	1
