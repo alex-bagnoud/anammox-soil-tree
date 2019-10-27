@@ -44,6 +44,12 @@ Finally, the tree was annotated with iTOL (https://itol.embl.de/) and with Inksc
 Here is the final version of the tree:
 ![](1-BF_amx_tree/5-itol/3-itol_tree_v2.svg)
 
-
-
 ### 2) Phylogenetic analysis of anammox sequences retrieved from all studies of terrestrial environments
+
+The second part of this script describes a phylogenetic meta-analysis of all 16S rRNA sequences of anammox retrieved from other studies of terrestrial environments. 
+
+##### 2.1) Input sequences
+
+All anammox sequences were downloaded using the accession numbers found in literature. They have been pooled in this file: 
+
+
