@@ -11,7 +11,7 @@ Note: the statistical analyses of this article are presented in another [reposit
 ### 1) Phylogenetic analysis of anammox sequences retrieved from this study
 
 #### 1.1) Reference alignement
-Firt, a reference alignment was carried out with the default parameters of mafft v.7 (http://mafft.cbrc.jp/alignment/server/). The reference sequences were retrieved from Silva database (https://www.arb-silva.de/) by selecting only 16S rRNA sequences from the 12 anammox candidate species. Two non-anammox sequences were added to the alignment (*Pseudomonas aeruginosa* PACS2 and *Gemmata obscuriglobus* UQM 2246).
+Firt, a reference alignment was carried out with the default parameters of mafft v.7 (http://mafft.cbrc.jp/alignment/server/). The reference sequences were retrieved from Silva database (https://www.arb-silva.de/) by selecting only 16S rRNA sequences from the 12 anammox candidate species. Two non-anammox sequences were added to the alignment (*Pseudomonas aeruginosa* PACS2 and *Gemmata obscuriglobus* UQM 2246). The fasta file can be accessed [here](0-input_files/1-reref_tree_seq.fasta).
 
 #### 1.2) Add short seqeunces to the alignement with mafft v.7 (http://mafft.cbrc.jp/alignment/server/)
 * "--addfragments" option
