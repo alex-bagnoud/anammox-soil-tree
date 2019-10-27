@@ -1,0 +1,43 @@
+LABELS
+#use this template to change the leaf labels, or define/change the internal node names (displayed in mouseover popups)
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#NODE_ID,LABEL
+
+#Examples
+#define a name for an internal node
+#9031|9606,Metazoa
+
+#change the label for leaf node 9606
+#9606,Homo sapiens
+
+AAQW01000001.700427.701962,Pseudomonas aeruginosa PACS2 - AAQW01000001.700427.701962
+AB057453.1.1485,Ca. Jettenia caeni - AB057453.1.1485
+ABGO01000192.11014.12492,Gemmata obscuriglobus UQM 2246 - ABGO01000192.11014.12492
+AF375994.1.1543,Ca. Brocadia anammoxidans - AF375994.1.1543
+BAFN01000001.3301600.3303151,Ca. Brocadia sinica JPN1 - BAFN01000001.3301600.3303151
+CT573071.836029.837577,Ca. Kuenenia stuttgartiensis - CT573071.836029.837577
+DQ301513.1.1538,Ca. Jettenia asiatica - DQ301513.1.1538
+EF602039.1.1530,Ca. Scalindua marina - EF602039.1.1530
+EU142947.1.1530,Ca. Scalindua sp. enrichment culture clone 15L - EU142947.1.1530
+EU478692.1.2144,Ca. Scalindua wagneri - EU478692.1.2144
+EU478693.1.2139,Ca. Brocadia fulgida - EU478693.1.2139
+EU478694.1.2286,Ca. Anammoxoglobus propionicus - EU478694.1.2286
+F810110.1.1510,Ca. Brocadia caroliniensis - F810110.1.1510
+JRYO01000256.21289.22838,Ca. Scalindua brodae - JRYO01000256.21289.22838
+JZEK01000054.33287.34875,Ca. Brocadia sinica - JZEK01000054.33287.34875
