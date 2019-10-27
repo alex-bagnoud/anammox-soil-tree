@@ -19,7 +19,7 @@ Then, the short anammox sequences retrieved from this study were added to the re
 The new alignement was saved as [1-BF_amx_tree/2-mafft_addfragments_alignment.fasta](1-BF_amx_tree/2-mafft_addfragments_alignment.fasta).
 
 #### 1.3) Alignment parsing
-The alignment was then parsed using BMGE v.1.12 (https://galaxy.pasteur.fr/) in order to remove region with too high entropy and/or not phylogenetically informative. The default parameters were used.
+The alignment was then parsed using BMGE v.1.12 (https://galaxy.pasteur.fr/) in order to remove regions with too high entropy and with poor phylogenetically information. The default parameters were used.
 
 The parsed alignement was saved as [1-BF_amx_tree/3-bmge_parsed_alignment.fasta](1-BF_amx_tree/3-bmge_parsed_alignment.fasta).
 
