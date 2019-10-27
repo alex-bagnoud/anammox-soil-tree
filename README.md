@@ -50,6 +50,6 @@ The second part of this script describes a phylogenetic meta-analysis of all 16S
 
 ##### 2.1) Input sequences
 
-All anammox sequences were downloaded using the accession numbers found in literature. They have been pooled in this file: 
+All anammox sequences were downloaded using the accession numbers found in literature. They have been pooled in this file: [0-input_files/3-soils_seq.fasta](0-input_files/3-soils_seq.fasta)
 
 
