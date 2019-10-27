@@ -127,4 +127,93 @@ Then, the parsed alignement was trimmed with Aliview v.1.18 (https://ormbunkar.s
 
 Finally, the tree was computed with IQ-TREE v.1.5.3 (http://iqtree.cibiv.univie.ac.at/) using the default parameters. The output files were [3-ref_tree/6-iqtree/](3-ref_tree/6-iqtree/)
 
+##### 2.3) Pairwise alignment of anammox soil sequences
+
+
+```{blast}
+mkdir 4-blastn
+```
+
+## 2.1) Align anammox sequence to the reference alignment to make sure that they have the same direction
+
+```{blast}
+mafft --adjustdirection --addfragments 0-input_files/2-soils_seq_new_labels_flat.fasta 1-ref_tree/5-ref_set_alignment_trimmed_aliview.fasta > 2-blastn/1-amx_seq_added_refalignment_mafft.fasta
+```
+
+## 2.2) Make this fasta file flat
+
+```{blast}
+less 2-blastn/1-amx_seq_added_refalignment_mafft.fasta | awk -v RS='>'     -v FS="\n"     \
+-v OFS=""     -v ORS="" '{ if (NR > 1) { printf ">%s\n",$1; $1=""; printf "%s\n",$0 } }' \
+> 2-blastn/2-amx_seq_added_refalignment_mafft_flat.fasta
+```
+
+## 2.3) Remove gaps "-" from sequences
+
+```{blast}
+while read p; do
+	if [[ $p == *'>'* ]]; then
+		echo $p;
+	else
+		echo $p | sed 's/\-//g' | sed 's/a/A/g' | sed 's/c/C/g' | sed 's/g/G/g' | sed 's/t/T/g';
+	fi;
+done < 2-blastn/2-amx_seq_added_refalignment_mafft_flat.fasta | grep -A1 -E "Uncultured|Humbert1" | grep -v "\-\-" | sed 's/ /_/g' > 2-blastn/3-amx_seq_good_direction.fasta
+```
+
+## 2.4) Make blast db
+
+```{blast}
+makeblastdb -in 0-input_files/soils_seq.fasta -dbtype nucl -out 2-blastn/4-amx_soil_db
+```
+
+## 2.5) Subset only anammox sequences from this study
+
+```{blast}
+grep -A1 "^>Bagnoud" 2-blastn/3-amx_seq_good_direction.fasta | grep -v "\-\-" > 2-blastn/5-Bagnoud_seq.fasta
+```
+
+## 2.6) Blast anammox soil sequences on themselves
+
+```{blast}
+blastn -query 2-blastn/5-Bagnoud_seq.fasta -db 2-blastn/4-amx_soil_db -out 2-blastn/6-blast_report.txt -outfmt 6
+```
+
+
+#### 3) Soils OTUs
+mkdir 3-soils_otus
+
+## 3.1) Dereplicate sequences
+usearch -fastx_uniques 2-blastn/3-amx_seq_good_direction.fasta -fastaout 3-soils_otus/1-uniques.fasta -sizeout -relabel Uniq -tabbedout 3-soils_otus/1-uniques_report.txt
+
+## 3.2) Cluster OTUs at 97% similarity
+usearch -cluster_otus 3-soils_otus/1-uniques.fasta -otus 3-soils_otus/2-otus97.fasta -minsize 1 -strand plus -relabel OTU -uparseout 3-soils_otus/2-otus97_report.txt
+
+# output: 113 OTUs, 96 chimeras
+
+## 3.3) Build OTU table
+usearch -usearch_global 0-input_files/3-soils_seq_new_labels_flat_new_labels.fasta -db 3-soils_otus/2-otus97.fasta -strand both -id 0.97 -otutabout 3-soils_otus/3-97otu_table.txt -uc 3-soils_otus/3-97otu_table_report.txt
+
+
+## 3.4) Assign taxonomy QIIME v.1.9.1 (UCLUST method, and SILVA128 database)
+source activate qiime1
+assign_taxonomy.py -i 3-soils_otus/2-otus97.fasta -r ~/databases/SILVA_128_QIIME_release/rep_set/rep_set_16S_only/97/97_otus_16S.fasta  -t ~/databases/SILVA_128_QIIME_release/taxonomy/16S_only/97/majority_taxonomy_7_levels.txt  -o 3-soils_otus/4-silva_tax
+source deactivate
+
+
+## 3.5) Add taxonomic annotation to OTUs fasta file and select only Brocadiaceae-annotated OTUs
+# Run scripts/select_otus_with_tax.R
+# output file saved as: 3-soils_otus/5-brocadiceae_otus.fasta
+
+
+#### 4) EP of Brocadiaceae soils OTUs
+mkdir 4-ep_soils_otus
+
+## 4.1) Alignment wit MAFFT v.7.309
+mafft --adjustdirection --addfragments 3-soils_otus/5-brocadiceae_otus.fasta 1-ref_tree/5-ref_set_alignment_trimmed_aliview.fasta > 4-ep_soils_otus/1-broc_otus_added_refalignment_mafft.fasta
+
+## 4.2) EPA analysis with RAxML v.8.2.9
+mkdir 4-ep_soils_otus/2-epa_raxml
+raxmlHPC-PTHREADS -f v -s 4-ep_soils_otus/1-broc_otus_added_refalignment_mafft.fasta -t 1-ref_tree/6-iqtree/5-ref_set_alignment_trimmed_aliview.fasta.contree -T 3 -m GTRGAMMAI -n epa_broc_otus -w /Users/Alex/ucloud/Collaboration/anommox_paper/amx_otu_tree/v10_new_seq_added_usearch10/4-ep_soils_otus/2-epa_raxml/
+
+
 
