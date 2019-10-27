@@ -48,7 +48,7 @@ Here is the final version of the tree:
 
 The second part of this script describes a phylogenetic meta-analysis of all 16S rRNA sequences of anammox retrieved from other studies of terrestrial environments. 
 
-##### 2.1) Input sequences
+#### 2.1) Input sequences
 
 All anammox sequences were downloaded using the accession numbers found in literature. They have been pooled in this file: [0-input_files/3-soils_seq.fasta](0-input_files/3-soils_seq.fasta)
 
@@ -117,7 +117,7 @@ while read p; do
 	fi;
 done < 2-amx_soil_seq/2-soils_seq_new_labels_flat.fasta > 2-amx_soil_seq/3-soils_seq_new_labels_flat_new_labels.fasta
 ```
-##### 2.2) Reference tree
+#### 2.2) Reference tree
 
 A reference tree was constructed. The mafft alignement of the 14 references sequences (12 anammox candidate species and 2 other sequences as outgroup) from the first part of the script ([1-BF_amx_tree/1-ref_set_aligned_mafft.fasta](1-BF_amx_tree/1-ref_set_aligned_mafft.fasta)) was used as starting material here.
 
@@ -127,7 +127,7 @@ Then, the parsed alignement was trimmed with Aliview v.1.18 (https://ormbunkar.s
 
 Finally, the tree was computed with IQ-TREE v.1.5.3 (http://iqtree.cibiv.univie.ac.at/) using the default parameters. The output files were [3-ref_tree/6-iqtree/](3-ref_tree/6-iqtree/)
 
-##### 2.3) Pairwise alignment of anammox soil sequences
+#### 2.3) Pairwise alignment of anammox soil sequences
 
 In this part, all the retrieved 16S rRNA anammox sequences were checked for their directionnality (to make sure that all have the same direction. Then, anammox sequences from Bellefontaine (so from this study) were blast using all other sequences as database, in order to see how similar they are to anammox sequences from other terrestrial environment. All this part was done in bash.
 
@@ -178,7 +178,7 @@ Finally, anammox sequences from this study were blast on all the others:
 blastn -query 4-blastn/5-Bagnoud_seq.fasta -db 2-blastn/4-amx_soil_db -out 4-blastn/6-blast_report.txt -outfmt 6
 ```
 
-##### 2.4) Grouping soil anammox sequences into 97% OTUs
+#### 2.4) Grouping soil anammox sequences into 97% OTUs
 
 Here USEARCH (https://www.drive5.com/usearch/) is used to group anammox sequences in operational taxonomic units (OTU), defined based on a similarity threshold of 97%. All this part was done in bash (unless specified otherwise).
 
