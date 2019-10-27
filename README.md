@@ -268,5 +268,14 @@ And here the anammox sequences were placed on the reference tree by RAxML:
 mkdir 6-ep_soils_otus/2-epa_raxml
 raxmlHPC-PTHREADS -f v -s 6-ep_soils_otus/1-broc_otus_added_refalignment_mafft.fasta -t 3-ref_tree/6-iqtree/5-ref_set_alignment_trimmed_aliview.fasta.contree -T 3 -m GTRGAMMAI -n epa_broc_otus -w 4-ep_soils_otus/2-epa_raxml/
 ```
+#### 2.6) Tree annotation
+
+Finally, the tree was annotated with iTOL (https://itol.embl.de). Annotations files can be accessed here [6-ep_soils_otus/3-itol/](6-ep_soils_otus/3-itol/). These files includes:
+- Relabelling of the tree leaves;
+- Bubbles plot for the proportions of OTUs within studies;
+- Barplot for the OTUs proportion of across soil types.
+
+Finally, the tree was edited with Inkscape (https://inkscape.org). The tree is diplayed below:
+![](6-ep_soils_otus/3-itol/4-amx_otu_tree.svg)
 
 
