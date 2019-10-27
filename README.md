@@ -115,7 +115,10 @@ while read p; do
 	else
 		echo $p;	
 	fi;
-done <  0-input_files/2-soils_seq_new_labels_flat.fasta > 0-input_files/3-soils_seq_new_labels_flat_new_labels.fasta
+done < 2-amx_soil_seq/2-soils_seq_new_labels_flat.fasta > 2-amx_soil_seq/3-soils_seq_new_labels_flat_new_labels.fasta
 ```
+##### 2.2) Reference tree
+
+A reference tree was constructed. The mafft alignement of the 14 references sequences (12 anammox candidate species and 2 other sequences as outgroup) from the first part of the script (1-BF_amx_tree/1-ref_set_aligned_mafft.fasta) was used as starting material here.
 
 
