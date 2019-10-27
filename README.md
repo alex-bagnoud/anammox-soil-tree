@@ -10,6 +10,10 @@ Note: the statistical analyses of this article are presented in another [reposit
 
 ### 1) Phylogenetic analysis of anammox sequences retrieved from this study
 
+This first part consist of placing the anammox sequences retrieved from 4 samples orignating from two soils, on a reference tree. Sequences were obtained by cloning the amplicon of a nested PCR. The first PCR amplification was carried out with Pla46f ([Neef *et al.* 1998](https://www.ncbi.nlm.nih.gov/pubmed/9884217)) and Univ1390r ([Zheng *et al.* 1996](https://www.ncbi.nlm.nih.gov/pubmed/8953722)) primers, and the second amplification (after a 100x dilution of the first PCR product) with Amx368f and Amx890r primers ([Schmid *et al.* 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1082507/)). Then, amplicons were inserted into plasmids and introduced in electrocompetant *E. Coli*. After clones isolation, primer insert were amplified by PCR, and compared by their restricution profiles produced by *AluI* and *MspI*. Clones yiedling indentical restriction profiles were considered as indentical, and one clone of each group was sent out for Sanger sequencing.
+
+This approach lacks of specificity, has about 10% of the sequences were not affiliated to anammox bacteria. Those were excluded from the subsequent analysis.
+
 #### 1.1) Reference alignement
 
 Firt, a reference alignment was carried out with the default parameters of mafft v.7 (http://mafft.cbrc.jp/alignment/server/). The reference sequences were retrieved from Silva database (https://www.arb-silva.de/) by selecting only 16S rRNA sequences from the 12 anammox candidate species. Two non-anammox sequences were added to the alignment (*Pseudomonas aeruginosa* PACS2 and *Gemmata obscuriglobus* UQM 2246).
