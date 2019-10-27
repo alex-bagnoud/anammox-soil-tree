@@ -129,53 +129,55 @@ Finally, the tree was computed with IQ-TREE v.1.5.3 (http://iqtree.cibiv.univie.
 
 ##### 2.3) Pairwise alignment of anammox soil sequences
 
+In this part, all the retrieved 16S rRNA anammox sequences were checked for their directionnality (to make sure that all have the same direction. Then, anammox sequences from Bellefontaine (so from this study) were blast using all other sequences as database, in order to see how similar they are to anammox sequences from other terrestrial environment. All this part was done in bash.
 
-```{blast}
+```{bash}
 mkdir 4-blastn
 ```
+Anammox sequences were aligned to the reference alignment to make sure that they have the same direction:
 
-## 2.1) Align anammox sequence to the reference alignment to make sure that they have the same direction
-
-```{blast}
-mafft --adjustdirection --addfragments 0-input_files/2-soils_seq_new_labels_flat.fasta 1-ref_tree/5-ref_set_alignment_trimmed_aliview.fasta > 2-blastn/1-amx_seq_added_refalignment_mafft.fasta
+```{bash}
+mafft --adjustdirection --addfragments 2-amx_soil_seq/3-soils_seq_new_labels_flat_new_labels.fasta 3-ref_tree/5-ref_set_alignment_trimmed_aliview.fasta > 4-blastn/1-amx_seq_added_refalignment_mafft.fasta
 ```
 
-## 2.2) Make this fasta file flat
+The aligned fasta file was made "flat":
 
-```{blast}
-less 2-blastn/1-amx_seq_added_refalignment_mafft.fasta | awk -v RS='>'     -v FS="\n"     \
+```{bash}
+less 4-blastn/1-amx_seq_added_refalignment_mafft.fasta | awk -v RS='>'     -v FS="\n"     \
 -v OFS=""     -v ORS="" '{ if (NR > 1) { printf ">%s\n",$1; $1=""; printf "%s\n",$0 } }' \
-> 2-blastn/2-amx_seq_added_refalignment_mafft_flat.fasta
+> 4-blastn/2-amx_seq_added_refalignment_mafft_flat.fasta
 ```
 
-## 2.3) Remove gaps "-" from sequences
+The gaps (```-```) were removed from the alignment file (as we just aligned sequences to orientate them correctly):
 
-```{blast}
+```{bash}
 while read p; do
 	if [[ $p == *'>'* ]]; then
 		echo $p;
 	else
 		echo $p | sed 's/\-//g' | sed 's/a/A/g' | sed 's/c/C/g' | sed 's/g/G/g' | sed 's/t/T/g';
 	fi;
-done < 2-blastn/2-amx_seq_added_refalignment_mafft_flat.fasta | grep -A1 -E "Uncultured|Humbert1" | grep -v "\-\-" | sed 's/ /_/g' > 2-blastn/3-amx_seq_good_direction.fasta
+done < 4-blastn/2-amx_seq_added_refalignment_mafft_flat.fasta | grep -A1 -E "Uncultured|Humbert1" | grep -v "\-\-" | sed 's/ /_/g' > 4-blastn/3-amx_seq_good_direction.fasta
 ```
 
-## 2.4) Make blast db
+A blast database was created from all anammox sequences retrieved from terrestrial environments:
 
-```{blast}
-makeblastdb -in 0-input_files/soils_seq.fasta -dbtype nucl -out 2-blastn/4-amx_soil_db
+```{bash}
+makeblastdb -in 0-input_files/2-soils_seq.fasta -dbtype nucl -out 2-blastn/4-amx_soil_db
 ```
 
-## 2.5) Subset only anammox sequences from this study
+Then, only sequences from this study were isolated from orientation-corrected fasta file:
 
-```{blast}
-grep -A1 "^>Bagnoud" 2-blastn/3-amx_seq_good_direction.fasta | grep -v "\-\-" > 2-blastn/5-Bagnoud_seq.fasta
+```{bash}
+grep -A1 "^>Bagnoud" 4-blastn/3-amx_seq_good_direction.fasta | grep -v "\-\-" > 4-blastn/5-Bagnoud_seq.fasta
 ```
 
-## 2.6) Blast anammox soil sequences on themselves
+Finally, anammox sequences from this study were blast on all the others:
 
-```{blast}
-blastn -query 2-blastn/5-Bagnoud_seq.fasta -db 2-blastn/4-amx_soil_db -out 2-blastn/6-blast_report.txt -outfmt 6
+```{bash}
+blastn -query 4-blastn/5-Bagnoud_seq.fasta -db 2-blastn/4-amx_soil_db -out 4-blastn/6-blast_report.txt -outfmt 6
+```
+
 ```
 
 
