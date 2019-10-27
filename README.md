@@ -119,6 +119,12 @@ done < 2-amx_soil_seq/2-soils_seq_new_labels_flat.fasta > 2-amx_soil_seq/3-soils
 ```
 ##### 2.2) Reference tree
 
-A reference tree was constructed. The mafft alignement of the 14 references sequences (12 anammox candidate species and 2 other sequences as outgroup) from the first part of the script (1-BF_amx_tree/1-ref_set_aligned_mafft.fasta) was used as starting material here.
+A reference tree was constructed. The mafft alignement of the 14 references sequences (12 anammox candidate species and 2 other sequences as outgroup) from the first part of the script ([1-BF_amx_tree/1-ref_set_aligned_mafft.fasta](1-BF_amx_tree/1-ref_set_aligned_mafft.fasta)) was used as starting material here.
+
+First, the alignement was parsed with BMGE v.1.12 on https://galaxy.pasteur.fr/ using the default parameter, except that the maximum entropy threshold was set to ```1.0```, and that the minmum block size was set to ```1```. The output was saved as [3-ref_tree/4-ref_set_alignment_parsed_bmge.fasta](3-ref_tree/4-ref_set_alignment_parsed_bmge.fasta)
+
+Then, the parsed alignement was trimmed with Aliview v.1.18 (https://ormbunkar.se/aliview/). Only positions between 10 and 1493 bp were kept. The output was saved as [3-ref_tree/5-ref_set_alignment_trimmed_aliview.fasta](3-ref_tree/5-ref_set_alignment_trimmed_aliview.fasta)
+
+Finally, the tree was computed with IQ-TREE v.1.5.3 (http://iqtree.cibiv.univie.ac.at/) using the default parameters. The output files were [3-ref_tree/6-iqtree/](3-ref_tree/6-iqtree/)
 
 
