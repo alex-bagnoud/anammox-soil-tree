@@ -250,19 +250,23 @@ dfToFasta <- function(header, seq, file){
 
 dfToFasta(fasta_df3$new_header, fasta_df3$sequence, fasta_output)
 ```
+#### 2.5) Evolutionnary placements of Brocadiaceae OTUs on the reference anammox tree
 
+This last part was done with RAxML v.8.2.9 (https://cme.h-its.org/exelixis/web/software/raxml/). This algorithm can place new sequences on a reference tree, providing an alignement of the new sequences on the reference alignment (that was used to compute to reference tree).
 
-
+```{bash}
+mkdir 6-ep_soils_otus
 ```
-#### 4) EP of Brocadiaceae soils OTUs
-mkdir 4-ep_soils_otus
 
-## 4.1) Alignment wit MAFFT v.7.309
-mafft --adjustdirection --addfragments 3-soils_otus/5-brocadiceae_otus.fasta 1-ref_tree/5-ref_set_alignment_trimmed_aliview.fasta > 4-ep_soils_otus/1-broc_otus_added_refalignment_mafft.fasta
+OTUs were aligned on the reference alignement with MAFFT v.7.309 (https://mafft.cbrc.jp/alignment/software/):
+```{bash}
+mafft --adjustdirection --addfragments 5-soils_otus/5-brocadiceae_otus.fasta 3-ref_tree/5-ref_set_alignment_trimmed_aliview.fasta > 6-ep_soils_otus/1-broc_otus_added_refalignment_mafft.fasta
+```
 
-## 4.2) EPA analysis with RAxML v.8.2.9
-mkdir 4-ep_soils_otus/2-epa_raxml
-raxmlHPC-PTHREADS -f v -s 4-ep_soils_otus/1-broc_otus_added_refalignment_mafft.fasta -t 1-ref_tree/6-iqtree/5-ref_set_alignment_trimmed_aliview.fasta.contree -T 3 -m GTRGAMMAI -n epa_broc_otus -w /Users/Alex/ucloud/Collaboration/anommox_paper/amx_otu_tree/v10_new_seq_added_usearch10/4-ep_soils_otus/2-epa_raxml/
-
+And here the anammox sequences were placed on the reference tree by RAxML:
+```{bash}
+mkdir 6-ep_soils_otus/2-epa_raxml
+raxmlHPC-PTHREADS -f v -s 6-ep_soils_otus/1-broc_otus_added_refalignment_mafft.fasta -t 3-ref_tree/6-iqtree/5-ref_set_alignment_trimmed_aliview.fasta.contree -T 3 -m GTRGAMMAI -n epa_broc_otus -w 4-ep_soils_otus/2-epa_raxml/
+```
 
 
