@@ -1,0 +1,78 @@
+
+You are using a proportion of Invariable sites estimate, although I don't
+like it. The likelihood epsilon "-f e" will be automatically lowered to 0.001
+to avoid unfavorable effects caused by simultaneous optimization of alpha and P-Invar
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+Found a total of 15 taxa in tree file 1-ref_tree/6-iqtree/5-ref_set_alignment_trimmed_aliview.fasta.contree
+
+
+This is RAxML version 8.2.9 released by Alexandros Stamatakis on July 20 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 633 distinct alignment patterns
+
+Found 0 invariant alignment patterns that correspond to 0 columns 
+Proportion of gaps and completely undetermined characters in this alignment: 47.09%
+
+RAxML likelihood-based placement algorithm
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA+P-Invar model of rate heterogeneity, ML estimate of alpha-parameter
+
+Partition: 0
+Alignment Patterns: 633
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS -f v -s 4-ep_soils_otus/1-broc_otus_added_refalignment_mafft.fasta -t 1-ref_tree/6-iqtree/5-ref_set_alignment_trimmed_aliview.fasta.contree -T 3 -m GTRGAMMAI -n epa_broc_otus -w /Users/Alex/ucloud/Collaboration/anommox_paper/amx_otu_tree/v10_new_seq_added_usearch10/4-ep_soils_otus/2-epa_raxml/ 
+
+
+RAxML placement algorithm: You provided a reference tree with 15 taxa; alignmnet has 41 taxa
+26 query taxa will be placed using maximum likelihood
+
+RAxML Evolutionary Placement Algorithm
+
+Likelihood of reference tree: -7399.741709
+
+RAxML will place 26 Query Sequences into the 27 branches of the reference tree with 15 taxa
+
+Overall Classification time: 1.104046
+
+
+
+Labelled reference tree including branch labels and query sequences written to file: /Users/Alex/ucloud/Collaboration/anommox_paper/amx_otu_tree/v10_new_seq_added_usearch10/4-ep_soils_otus/2-epa_raxml/RAxML_labelledTree.epa_broc_otus
+
+Labelled reference tree with branch labels (without query sequences) written to file: /Users/Alex/ucloud/Collaboration/anommox_paper/amx_otu_tree/v10_new_seq_added_usearch10/4-ep_soils_otus/2-epa_raxml/RAxML_originalLabelledTree.epa_broc_otus
+
+Labelled reference tree with branch labels in portable pplacer/EPA format (without query sequences) written to file: /Users/Alex/ucloud/Collaboration/anommox_paper/amx_otu_tree/v10_new_seq_added_usearch10/4-ep_soils_otus/2-epa_raxml/RAxML_portableTree.epa_broc_otus.jplace
+
+Classification result file written to file: /Users/Alex/ucloud/Collaboration/anommox_paper/amx_otu_tree/v10_new_seq_added_usearch10/4-ep_soils_otus/2-epa_raxml/RAxML_classification.epa_broc_otus
+
+Classification result file using likelihood weights written to file: /Users/Alex/ucloud/Collaboration/anommox_paper/amx_otu_tree/v10_new_seq_added_usearch10/4-ep_soils_otus/2-epa_raxml/RAxML_classificationLikelihoodWeights.epa_broc_otus
+
+Classification entropy result file using likelihood weights written to file: /Users/Alex/ucloud/Collaboration/anommox_paper/amx_otu_tree/v10_new_seq_added_usearch10/4-ep_soils_otus/2-epa_raxml/RAxML_entropy.epa_broc_otus
+
