@@ -14,6 +14,12 @@ This first part consist of placing the anammox sequences retrieved from 4 sample
 
 This approach lacks of specificity, has about 10% of the sequences were not affiliated to anammox bacteria. Those were excluded from the subsequent analysis.
 
+This first part was entirely carried out with online tools:
+- mafft v.7 (http://mafft.cbrc.jp/alignment/server/)
+- BMGE v.1.12 (https://galaxy.pasteur.fr/)
+- IQ-TREE v.1.5.3 (http://iqtree.cibiv.univie.ac.at/)
+- iTOL (https://itol.embl.de/)
+
 #### 1.1) Reference alignement
 
 Firt, a reference alignment was carried out with the default parameters of mafft v.7 (http://mafft.cbrc.jp/alignment/server/). The reference sequences were retrieved from Silva database (https://www.arb-silva.de/) by selecting only 16S rRNA sequences from the 12 anammox candidate species. Two non-anammox sequences were added to the alignment (*Pseudomonas aeruginosa* PACS2 and *Gemmata obscuriglobus* UQM 2246).
@@ -46,7 +52,9 @@ Here is the final version of the tree:
 
 ### 2) Phylogenetic analysis of anammox sequences retrieved from all studies of terrestrial environments
 
-The second part of this script describes a phylogenetic meta-analysis of all 16S rRNA sequences of anammox retrieved from other studies of terrestrial environments. 
+The second part of this script describes a phylogenetic meta-analysis of all 16S rRNA sequences of anammox retrieved from other studies of terrestrial environments.
+
+Even though this second parts shares many tools with the first one, most of the steps were computed locally using bash or R commands.
 
 #### 2.1) Input sequences
 
@@ -275,7 +283,7 @@ Finally, the tree was annotated with iTOL (https://itol.embl.de). Annotations fi
 - Bubbles plot for the proportions of OTUs within studies;
 - Barplot for the OTUs proportion of across soil types.
 
-Finally, the tree was edited with Inkscape (https://inkscape.org). The tree is diplayed below:
+The tree was edited with Inkscape (https://inkscape.org). Here is the final result:
 ![](6-ep_soils_otus/3-itol/4-amx_otu_tree.svg)
 
 
