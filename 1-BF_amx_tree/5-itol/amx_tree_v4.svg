@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320mm"
+   height="290mm"
+   style="overflow:hidden"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="amx_tree_v4.svg"
+   inkscape:export-filename="/Users/Alex/ucloud/Collaboration/anommox_paper/amx_tree_iqtree/amx_seq_only/itol/amx_tree_v4.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata223">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1186"
+     inkscape:window-height="775"
+     id="namedview221"
+     showgrid="false"
+     inkscape:zoom="0.27224467"
+     inkscape:cx="849.87651"
+     inkscape:cy="170.9268"
+     inkscape:window-x="245"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
+     units="mm" />
+  <defs
+     id="defs4" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Rectangles"
+     transform="translate(0,-24.80315)">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b1d195;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4535"
+       width="439.11005"
+       height="55.19664"
+       x="388.32446"
+       y="149.16541" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ebb58a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4535-1"
+       width="396.23831"
+       height="235.18181"
+       x="431.19623"
+       y="517.17505" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9da78;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4535-1-2"
+       width="357.44962"
+       height="156.20871"
+       x="469.98492"
+       y="886.46399" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#a5c2e4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4535-1-2-9"
+       width="404.40436"
+       height="154.37215"
+       x="423.03015"
+       y="229.68372" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;overflow:hidden;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="697.34186"
+       y="557.5769"
+       id="text5805"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5807"
+         x="697.34186"
+         y="557.5769"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Oblique';fill:#666666">Cluster 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;overflow:hidden;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="694.53748"
+       y="189.24785"
+       id="text5805-1"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5807-6"
+         x="694.53748"
+         y="189.24785"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Oblique';fill:#666666">Cluster 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;overflow:hidden;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="695.12018"
+       y="271.68076"
+       id="text5805-6"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5807-1"
+         x="695.12018"
+         y="271.68076"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Oblique';fill:#666666">Cluster 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;overflow:hidden;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="694.02393"
+       y="927.80731"
+       id="text5805-3"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5807-4"
+         x="694.02393"
+         y="927.80731"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Oblique';fill:#666666">Cluster 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="651.98706"
+       y="77.136475"
+       id="text5871"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5873"
+         x="651.98706"
+         y="77.136475"
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Oblique';fill:#4d4d4d">Outgroup</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Tree"
+     transform="translate(0,-24.80315)">
+    <g
+       style="overflow:hidden"
+       id="I11"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 424.72254,135 -22.08948,0 m 22.08948,15 0,-30" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I12"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(439.0264,126.6)"
+         id="text">Clone 3a-1 (1)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_1"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 434.02643,120 -9.30389,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I51"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(482.8083,636.6)"
+         id="text_1">Clone 3b-2 (11)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_2"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 477.80831,630 -5.85874,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I22"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_3"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 509.99369,989.0625 -29.66418,0 m 29.66418,29.0625 0,-58.125" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I73"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(465.7336,276.6)"
+         id="text_2">Clone 2c-14 (1)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_4"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 460.73363,270 -5.95112,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I5"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_5"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 357.78422,75 -0.002,0 m 0.002,15 0,-30" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I47"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(488.7421,756.6)"
+         id="text_3">Clone 3b-15 (1)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_6"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 483.74213,750 -8.86618,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I46"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_7"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 474.87595,765 -0.002,0 m 0.002,15 0,-30" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I43"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_8"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 471.95412,716.25 -0.002,0 m 0.002,26.25 0,-52.5" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I6"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(382.2722,66.6)"
+         id="text_4"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4431">Ca. Jettenia asiatica</tspan>
+ - DQ301513.1.1538</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_9"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 377.27224,60 -19.48802,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I50"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(485.772,666.6)"
+         id="text_5">Clone 3a-3 (9)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_10"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 480.77203,660 -8.82019,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I20"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(507.523,906.6)"
+         id="text_6"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4475">Ca. Brocadia fulgida</tspan>
+<tspan
+   style="font-style:italic"
+   id="tspan4477">-</tspan>
+ EU478693.1.2139</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_11"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 502.52295,900 -13.87719,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I26"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_12"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 510.00279,1095 -0.002,0 m 0.002,15 0,-30" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I69"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_13"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 454.78706,345 -0.002,0 m 0.002,15 0,-30" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I33"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_14"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 501.41471,832.5 -37.74841,0 m 37.74841,22.5 0,-45" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I44"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_15"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 474.87368,742.5 -2.91956,0 m 2.91956,22.5 0,-45" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I56"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(639.2195,426.6)"
+         id="text_7"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4447">Ca. Scalindua wagneri</tspan>
+ - EU478692.1.2144</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_16"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 634.21948,420 -76.91459,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I28"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(515.0028,1116.6)"
+         id="text_8">Clone 3b-28 (5)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_17"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 510.00279,1110 0,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I68"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_18"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 454.78479,322.5 -0.002,0 m 0.002,22.5 0,-45" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I54"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(468.1046,546.6)"
+         id="text_9">Unc. Planctomycetes AJ871743</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_19"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 463.10459,540 -0.002,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I4"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_20"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 357.78194,159.95544 -178.89097,0 m 178.89097,84.95545 0,-169.91089" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I72"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(459.7872,306.6)"
+         id="text_10">Clone 2c-2 (6)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_21"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 454.7872,300 -0.002,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I27"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(515.0028,1086.6)"
+         id="text_11">Clone 3b-6 (3)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_22"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 510.00279,1080 0,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I67"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_23"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 454.78251,296.25 -2.93207,0 m 2.93207,26.25 0,-52.5" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I15"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_24"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 438.75167,588.66211 -10.46356,0 m 10.46356,142.41211 0,-284.82422" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I62"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(471.3323,396.6)"
+         id="text_12"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4443">Ca. Kuenenia stuttgartiensis</tspan>
+ - CT573071.836029.837577</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_25"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 466.33228,390 -38.04417,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I61"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(628.8364,516.6)"
+         id="text_13"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4527">Ca. Scalindua</tspan>
+ sp. enrichment culture clone 15L - EU142947.1.1530</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_26"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 623.83638,510 -23.76626,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I70"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(459.7871,336.6)"
+         id="text_14">Clone 2c-1 (1)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_27"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 454.78706,330 0,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I21"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(513.8934,936.6)"
+         id="text_15"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4479">Ca. Brocadia caroliniensis</tspan>
+ - F810110.1.1510</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_28"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 508.89336,930 -20.2476,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I25"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_29"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 510.00052,1072.5 -0.002,0 m 0.002,22.5 0,-45" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I23"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_30"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 509.99597,1018.125 -0.002,0 m 0.002,28.125 0,-56.25" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I71"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(459.7871,366.6)"
+         id="text_16">Clone 2c-7 (8)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_31"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 454.78706,360 0,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I1"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(530.7001,186.6)"
+         id="text_17"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4439">Ca. Anammoxoglobus propionicus</tspan>
+ - EU478694.1.2286</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_32"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 525.70015,180 -84.21545,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I29"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(515.0029,1056.6)"
+         id="text_18">Clone 3b-22 (4)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_33"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 510.00293,1050 -0.002,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I37"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(514.8747,816.6)"
+         id="text_19"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4463">Ca. Brocadia anammoxidans</tspan>
+ - AF375994.1.1543</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_34"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 509.87465,810 -8.45994,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I40"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_35"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 471.9473,629.53125 -0.002,0 m 0.002,29.53125 0,-59.0625" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I57"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_36"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 583.19991,472.5 -25.89502,0 m 25.89502,22.5 0,-45" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I31"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.673203)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(520.9018,996.6)"
+         id="text_20">Clone 3d-1 (5)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_37"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 515.90177,990 -5.9058,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I36"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(528.6044,876.6)"
+         id="text_21"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4503">Ca. Brocadia sinica</tspan>
+ JPN1 - BAFN01000001.3301600.3303151</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_38"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 523.60441,870 -0.002,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I58"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(592.9141,456.6)"
+         id="text_22"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4519">Ca. Scalindua brodae</tspan>
+ - JRYO01000256.21289.22838</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_39"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 587.91411,450 -4.7142,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I17"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_40"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 463.6663,892.26563 -21.12501,0 m 21.12501,59.76562 0,-119.53125" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I53"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(485.8412,576.6)"
+         id="text_23">Clone 3b-41 (2)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_41"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 480.8412,570 -8.89618,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I55"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_42"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 557.30489,446.25 -118.55322,0 m 118.55322,26.25 0,-52.5" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I16"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_43"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 442.54129,731.07422 -3.78962,0 m 3.78962,161.19141 0,-322.38282" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I49"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(485.7907,696.6)"
+         id="text_24">Clone 3b-43 (1)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_44"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 480.79065,690 -8.83653,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I0"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_45"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 441.4847,220.3125 -30.62978,0 m 30.62978,40.3125 0,-80.625" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I63"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_46"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 451.85044,260.625 -10.36574,0 m 10.36574,35.625 0,-71.25" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I64"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_47"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 451.85272,225 -0.002,0 m 0.002,15 0,-30" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I8"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <g
+         id="shape_48">
+        <path
+           inkscape:connector-curvature="0"
+           id="path134"
+           style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+           d="M 357.78194,15 178.89097,15" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path136"
+           style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+           d="M 357.78194,15 1000,45 837.8758,-15 357.78194,15" />
+      </g>
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I32"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(520.9007,966.6)"
+         id="text_25">Clone 3b-7 (8)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_49"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 515.90073,960 -5.90704,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I2"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_50"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 410.85492,354.82178 -8.22186,0 m 8.22186,134.50927 0,-269.01855" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I39"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_51"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 471.94502,599.76563 -8.84284,0 m 8.84284,29.76562 0,-59.53125" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I42"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_52"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 471.95184,688.125 -0.002,0 m 0.002,28.125 0,-56.25" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I18"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_53"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 480.32951,952.03125 -16.66321,0 m 16.66321,37.03125 0,-74.0625" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I35"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(528.6044,846.6)"
+         id="text_26"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4467">Ca. Brocadia sinica</tspan>
+ - JZEK01000054.33287.34875</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_54"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 523.60441,840 -0.002,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I59"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_55"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 600.07012,495 -16.87021,0 m 16.87021,15 0,-30" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I30"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(520.9025,1026.6)"
+         id="text_27">Clone 3d-3 (15)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_56"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 515.90249,1020 -5.90425,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I7"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(374.6679,96.6)"
+         id="text_28"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4435">Ca. Jettenia caeni</tspan>
+ - AB057453.1.1485</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_57"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 369.66785,90 -11.88363,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I41"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_58"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 471.94957,659.0625 -0.002,0 m 0.002,29.0625 0,-58.125" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I65"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(456.8551,216.6)"
+         id="text_29">Clone 3b-4 (1)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_59"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 451.85513,210 -0.002,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I13"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(438.5529,156.6)"
+         id="text_30">Clone 3a-2 (1)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_60"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 433.55294,150 -8.8304,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I34"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_61"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 523.602,855 -22.18729,0 m 22.18729,15 0,-30" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I52"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(479.8638,606.6)"
+         id="text_31">Clone 3b-36 (1)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_62"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 474.86376,600 -2.91646,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I19"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_63"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 488.64576,915 -8.31625,0 m 8.31625,15 0,-30" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I66"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(459.7829,246.6)"
+         id="text_32">Clone 3b-23 (1)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_64"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 454.78286,240 -2.93014,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I24"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_65"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 509.99824,1046.25 -0.002,0 m 0.002,26.25 0,-52.5" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I60"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(624.0664,486.6)"
+         id="text_33"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4455">Ca. Scalindua marina</tspan>
+ - EF602039.1.1530</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_66"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 619.06639,480 -18.99627,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I45"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(516.9758,726.6)"
+         id="text_34">Clone 3b-1 (10)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_67"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 511.97577,720 -37.10209,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I14"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_68"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 428.28811,489.33105 -17.43319,0 m 17.43319,99.33106 0,-198.66211" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I3"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_69"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 402.63306,244.91089 -44.85112,0 m 44.85112,109.91089 0,-219.82178" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I38"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_70"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 463.10218,569.88281 -20.56089,0 m 20.56089,29.88282 0,-59.76563" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="I48"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         transform="translate(479.8784,786.6)"
+         id="text_35">Clone 3b-25 (2)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_71"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="m 474.87836,780 -0.002,0" />
+    </g>
+    <g
+       style="overflow:hidden"
+       id="NR0"
+       transform="matrix(0.8748,0,0,0.8748,29.524342,57.773047)">
+      <path
+         inkscape:connector-curvature="0"
+         id="shape_72"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10"
+         d="M 178.89097,87.477722 0,87.477722 m 178.89097,72.477718 0,-144.95544" />
+    </g>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_36"
+       x="389.40967"
+       y="171.99577">97</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_37"
+       x="464.03253"
+       y="937.54962">99</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_38"
+       x="452.72345"
+       y="800.8504">100</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_39"
+       x="416.08563"
+       y="331.05728">94</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_40"
+       x="529.72198"
+       y="484.84979">91</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_41"
+       x="424.02234"
+       y="852.86908">90</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_42"
+       x="504.35187"
+       y="464.03162">97</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_43"
+       x="402.33771"
+       y="246.63371">80</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_44"
+       x="412.26917"
+       y="299.89691">88</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_45"
+       x="174.16109"
+       y="131.26729">99</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_46"
+       x="431.80981"
+       y="596.72186">93</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_47"
+       x="437.86926"
+       y="904.61957">88</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_48"
+       x="543.06415"
+       y="505.60547">85</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_49"
+       x="471.16254"
+       y="819.99707">100</text>
+    <text
+       style="font-size:16.62120056px;font-family:Arial;text-anchor:middle;overflow:hidden;fill:#000000"
+       id="text_50"
+       x="424.84827"
+       y="553.95648">87</text>
+    <path
+       d="m 159.56973,1004.5502 0,6 m 0,-3 99.49477,0 m 0,-3 0,6"
+       style="overflow:hidden;fill:none;stroke:#000000;stroke-width:0.46765372;stroke-linecap:round;stroke-miterlimit:10"
+       id="shape_74"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text_51"
+       style="font-weight:bold;font-size:14px;font-family:Arial;overflow:hidden;fill:#555555"
+       x="53.832413"
+       y="1009.7702">Tree scale: 0.1</text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5607"
+       width="15"
+       height="15"
+       x="532.60913"
+       y="156.49496" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5607-5"
+       width="15"
+       height="15"
+       x="532.4682"
+       y="182.73897" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630"
+       cx="555.68317"
+       cy="242.72696"
+       r="7.5" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3"
+       cx="568.03119"
+       cy="268.97101"
+       r="7.5" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5647"
+       sodipodi:sides="3"
+       sodipodi:cx="677.24005"
+       sodipodi:cy="229.11374"
+       sodipodi:r1="15.158767"
+       sodipodi:r2="7.5793834"
+       sodipodi:arg1="-1.6010901"
+       sodipodi:arg2="-0.55389254"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 676.78091,213.96193 6.90528,11.16504 6.90529,11.16504 -13.12186,0.39763 -13.12185,0.39764 6.21657,-11.56268 z"
+       inkscape:transform-center-x="-0.13121417"
+       inkscape:transform-center-y="-2.3280532"
+       transform="matrix(0.57156558,0,0,0.64863886,184.69908,148.93095)" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5647-8"
+       sodipodi:sides="3"
+       sodipodi:cx="677.24005"
+       sodipodi:cy="229.11374"
+       sodipodi:r1="15.158767"
+       sodipodi:r2="7.5793834"
+       sodipodi:arg1="-1.6010901"
+       sodipodi:arg2="-0.55389254"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 676.78091,213.96193 6.90528,11.16504 6.90529,11.16504 -13.12186,0.39763 -13.12185,0.39764 6.21657,-11.56268 z"
+       inkscape:transform-center-x="-0.13121417"
+       inkscape:transform-center-y="-2.3280532"
+       transform="matrix(0.57156558,0,0,0.64863886,169.66686,175.17495)" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5647-2"
+       sodipodi:sides="3"
+       sodipodi:cx="677.24005"
+       sodipodi:cy="229.11374"
+       sodipodi:r1="15.158767"
+       sodipodi:r2="7.5793834"
+       sodipodi:arg1="-1.6010901"
+       sodipodi:arg2="-0.55389254"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 676.78091,213.96193 6.90528,11.16504 6.90529,11.16504 -13.12186,0.39763 -13.12185,0.39764 6.21657,-11.56268 z"
+       inkscape:transform-center-x="-0.13121417"
+       inkscape:transform-center-y="-2.3280532"
+       transform="matrix(0.57156558,0,0,0.64863886,170.16186,201.41895)" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5647-1"
+       sodipodi:sides="3"
+       sodipodi:cx="677.24005"
+       sodipodi:cy="229.11374"
+       sodipodi:r1="15.158767"
+       sodipodi:r2="7.5793834"
+       sodipodi:arg1="-1.6010901"
+       sodipodi:arg2="-0.55389254"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 676.78091,213.96193 6.90528,11.16504 6.90529,11.16504 -13.12186,0.39763 -13.12185,0.39764 6.21657,-11.56268 z"
+       inkscape:transform-center-x="-0.13121417"
+       inkscape:transform-center-y="-2.3280532"
+       transform="matrix(0.57156558,0,0,0.64863886,169.69886,227.66295)" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3-0"
+       cx="591.27118"
+       cy="557.65491"
+       r="7.5" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3-7"
+       cx="585.9942"
+       cy="583.89893"
+       r="7.5" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3-4"
+       cx="587.17517"
+       cy="610.14294"
+       r="7.5" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3-05"
+       cx="590.79419"
+       cy="662.63092"
+       r="7.5" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3-49"
+       cx="618.43829"
+       cy="688.87494"
+       r="7.5" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3-6"
+       cx="593.80017"
+       cy="715.11896"
+       r="7.5" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3-1"
+       cx="590.00238"
+       cy="741.36292"
+       r="7.5" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5607-8"
+       width="15"
+       height="15"
+       x="573.43317"
+       y="628.88696" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3-6-9"
+       cx="611.92822"
+       cy="898.8269"
+       r="7.5" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3-6-6"
+       cx="616.30219"
+       cy="977.55896"
+       r="7.5" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3-6-1"
+       cx="606.66394"
+       cy="1003.8029"
+       r="7.5" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5630-3-6-10"
+       cx="616.07819"
+       cy="1030.047"
+       r="7.5" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5607-8-0"
+       width="15"
+       height="15"
+       x="1081.0774"
+       y="212.02933"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36339441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5607-8-0-5"
+       width="15"
+       height="15"
+       x="1106.6802"
+       y="223.68224"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+  </g>
+</svg>
