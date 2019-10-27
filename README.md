@@ -74,4 +74,48 @@ sed -e "s/>KJ70/>Naeher_2015 KJ70/g" | \
 sed -e "s/>KT87/>Bagnoud KT87/g" > 2-amx_soil_seq/1-soils_seq_new_labels.fasta
 ```
 
+This fasta file was then made "flat" (in bash)
+
+```{bash}
+less 2-amx_soil_seq/1-soils_seq_new_labels.fasta | awk -v RS='>'     -v FS="\n"     \
+-v OFS=""     -v ORS="" '{ if (NR > 1) { printf ">%s\n",$1; $1=""; printf "%s\n",$0 } }' \
+> 2-amx_soil_seq/2-soils_seq_new_labels_flat.fasta
+```
+
+Finally, Bagnoud's and Humbert's reads were relabeled to specify the soil type in the sequence header (in bash). This was only done for these studies, as they are the only ones that looked at different soil types.
+
+```{bash}
+while read p; do
+	if [[ $p == *'Bagnoud'* ]] && [[ $p == *'clone 3'* ]]; then
+		echo $p | awk '{gsub("Bagnoud","Bagnoud_soil3")}1';
+	elif [[ $p == *'Bagnoud'* ]] && [[ $p == *'clone 2'* ]]; then
+		echo $p | awk '{gsub("Bagnoud","Bagnoud_soil2")}1';
+	elif [[ $p == *'Humbert1'* ]] && [[ $p == *'clone CdvP'* ]]; then
+		echo $p | awk '{gsub("Humbert1","Humbert1_CdV")}1';
+	elif [[ $p == *'Humbert1'* ]] && [[ $p == *'clone Cad'* ]]; then
+		echo $p | awk '{gsub("Humbert1","Humbert1_Cad")}1';
+	elif [[ $p == *'Humbert1'* ]] && [[ $p == *'clone Ln'* ]]; then
+		echo $p | awk '{gsub("Humbert1","Humbert1_LN")}1';
+	elif [[ $p == *'Humbert1'* ]] && [[ $p == *'clone Gc'* ]]; then
+		echo $p | awk '{gsub("Humbert1","Humbert1_GC")}1';
+	elif [[ $p == *'Humbert1'* ]] && [[ $p == *'clone Wa'* ]]; then
+		echo $p | awk '{gsub("Humbert1","Humbert1_VS")}1';
+	elif [[ $p == *'Humbert1'* ]] && [[ $p == *'clone Ca'* ]] && ! [[ $p == *'clone Cad'* ]]; then
+		echo $p | awk '{gsub("Humbert1","Humbert1_Cam")}1';
+	elif [[ $p == *'Humbert1'* ]] && [[ $p == *'clone EC'* ]]; then
+		echo $p | awk '{gsub("Humbert1","Humbert1_enrich")}1';
+	elif [[ $p == *'Humbert1'* ]] && [[ $p == *'clone Bo'* ]]; then
+		echo $p | awk '{gsub("Humbert1","Humbert1_Bo")}1';
+	elif [[ $p == *'Humbert1'* ]] && [[ $p == *'clone Ll'* ]]; then
+		echo $p | awk '{gsub("Humbert1","Humbert1_LL")}1';
+	elif [[ $p == *'Humbert2'* ]] && [[ $p == *'isolate F'* ]]; then
+		echo $p | awk '{gsub("Humbert2","Humbert2_soil3")}1';
+	elif [[ $p == *'Humbert2'* ]] && [[ $p == *'isolate R'* ]]; then
+		echo $p | awk '{gsub("Humbert2","Humbert2_LL")}1';
+	else
+		echo $p;	
+	fi;
+done <  0-input_files/2-soils_seq_new_labels_flat.fasta > 0-input_files/3-soils_seq_new_labels_flat_new_labels.fasta
+```
+
 
