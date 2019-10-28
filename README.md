@@ -55,7 +55,7 @@ Here is the final version of the tree:
 
 The second part of this script describes a phylogenetic meta-analysis of all 16S rRNA sequences of anammox retrieved from other studies of terrestrial environments.
 
-Even though this second parts shares many tools with the first one, most of the steps were computed locally using bash or R commands. Here is the list of softwares (and databases) that need to be installed locally in order to run this script:
+Even though this second part shares many tools with the first one, most of the steps were computed locally using bash or R commands. Here is the list of softwares (and databases) that need to be installed locally in order to run this script:
 - AliView (https://ormbunkar.se/aliview/)
 - BLAST(https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
 - USEARCH (https://www.drive5.com/usearch/)
