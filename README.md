@@ -1,6 +1,6 @@
 # anammox-soil-tree
 
-This github repository details the phylogenetic analyses carried out in the paper **Environmental factors determining distribution and activity of anammox bacteria in minerotrophic fen soils** written by Alexandre Bagnoud, Sylvia Guye-Humbert, Brigitte Schloter-Hai, Michael Schloter and Jakob Zopfi and published in *Insert journal name here + link*.
+This github repository details the phylogenetic analyses carried out in the paper **Environmental factors determining distribution and activity of anammox bacteria in minerotrophic fen soils** written by Alexandre Bagnoud, Sylvia Guye-Humbert, Brigitte Schloter-Hai, Michael Schloter and Jakob Zopfi and published in FEMS Microbiology Ecology, Volume 96, Issue 2 in February 2020 ([https://doi.org/10.1093/femsec/fiz191](https://doi.org/10.1093/femsec/fiz191)).
 
 Two phylogenetic analyses are reported here:
 1) The first one concerns only [anammox sequences retrieved from this study](#1-phylogenetic-analysis-of-anammox-sequences-retrieved-from-this-study). As it was performed in 2008, a combination of cloning and Sanger sequencing were used, only a limited number of sequences were obtained.
